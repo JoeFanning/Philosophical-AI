@@ -6,6 +6,7 @@ Egalitarian AI derives it's name from egalitarianism. Egalitarian AI would be co
 It's not just a set of rules for a model to adhere too, but a philosophical framework that guides the design and purpose of the entire AI system and its integration into society. It asks, "Does this system contribute to a more equal and just society? Is it helping to dismantle systemic inequalities?"
 
 Technical development
+
 In machine learning an egalitarian model would operate at a higher level of abstraction than an ethical model.
 All the models of the AI system would be processed individually by the Ethical AI. Then all these processed models would be collectively analysed by the Egalitarian-AI. 
 
