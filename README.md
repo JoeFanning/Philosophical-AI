@@ -31,3 +31,5 @@ Stage 1: The Ethical AI Layer (Individual Model Processing)
 ​Egalitarian AI: An egalitarian approach would be like the city planner. They would look at all the buildings together and ask: "Are we building a city where everyone has equal access to housing, jobs, and parks? Are we building a city that actively promotes equity and breaks down historical segregation, or are we just making sure that the new construction doesn't violate existing rules?"
 ​It is a framework to design AI systems for both local ethics and global justice.
 
+Joe Fanning Den Haag Centrum Aug 2025
+
