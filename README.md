@@ -29,4 +29,4 @@ Stage 1: The Ethical AI Layer (Individual Model Processing)
 ​This two-tiered technical structure can be likened to the way a city's infrastructure is planned and maintained:
 ​Ethical AI: An ethical approach would be like a building inspector. They would ensure that each individual building (an AI model) is constructed to code, is safe, and has proper access for people with disabilities.
 ​Egalitarian AI: An egalitarian approach would be like the city planner. They would look at all the buildings together and ask: "Are we building a city where everyone has equal access to housing, jobs, and parks? Are we building a city that actively promotes equity and breaks down historical segregation, or are we just making sure that the new construction doesn't violate existing rules?"
-​Your framework is a sophisticated and forward-thinking way to design AI systems for both local ethics and global justice.
+​It is a framework to design AI systems for both local ethics and global justice.
