@@ -1,4 +1,4 @@
-# Research resourses
+# Research Resourses on Egalitarianism 
 
 
 ## A Theory of Justice 
