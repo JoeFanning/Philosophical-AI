@@ -1,7 +1,8 @@
-**Research resourses**
+# Research resourses
 
 
-# A Theory of Justice by John Rawls: 
+## A Theory of Justice 
+by John Rawls: 
 
 This is arguably the most important text in modern political philosophy and a cornerstone of liberal egalitarianism. Rawls proposes a theory of "justice as fairness," arguing for two principles: 
 
