@@ -1,4 +1,4 @@
-# Research Resources on Egalitarianism
+# Research Resources for Egalitarianism
 
 ## A Theory of Justice 
 by John Rawls: 
