@@ -1,7 +1,9 @@
 # Research Resources for Egalitarianism
 
 Liberté, égalité, fraternité 
-French for 'liberty, equality, fraternity', Latin: Libertas,is the national motto of France and the Republic of Haiti, and is an example of a tripartite motto. Although it finds its origins in the French Revolution, it was then only one motto among others and was not institutionalized until the Third Republic at the end of the 19th century. Debates concerning the compatibility and order of the three terms began at the same time as the Revolution. It is also the motto of the Grand Orient and the Grande Loge de France.
+
+French for 'liberty, equality, fraternity' is the national motto of France and the Republic of Haiti, and is an example of a tripartite motto. 
+Although it finds its origins in the French Revolution, it was then only one motto among others and was not institutionalized until the Third Republic at the end of the 19th century. Debates concerning the compatibility and order of the three terms began at the same time as the Revolution. It is also the motto of the Grand Orient and the Grande Loge de France.
 
 Pierre Leroux: A French philosopher and political economist, Leroux is often credited with popularizing the term in the 19th century. His works on socialism and human progress are a key place to find this usage.
 
