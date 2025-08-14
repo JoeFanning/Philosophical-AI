@@ -1,7 +1,9 @@
 # Research Resources for Egalitarianism
 
 Pierre Leroux: A French philosopher and political economist, Leroux is often credited with popularizing the term in the 19th century. His works on socialism and human progress are a key place to find this usage.
+
 ​Alexis de Tocqueville: In his famous work Democracy in America, Tocqueville frequently discusses the rise of equality as a societal force. He is known to have used the term "égalitarisme" to describe the democratic drive towards social leveling, often with a sense of caution about its potential to lead to a "tyranny of the majority."
+
 ​Essentially, you would find the word in the works of 19th-century French thinkers who were either advocating for or critically analyzing the social and political movements that sought to create a more equal society in the wake of the French Revolution.
 
 ## A Theory of Justice 
