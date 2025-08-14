@@ -6,7 +6,7 @@ by John Rawls:
 
 This is arguably the most important text in modern political philosophy and a cornerstone of liberal egalitarianism. Rawls proposes a theory of "justice as fairness," arguing for two principles: 
 
-​The **"liberty principle,"** which guarantees equal basic liberties for all. 
+​The **"liberty principle,"** which guarantees equal basic liberties for all.
 
 ​The **"difference principle,"** which states that social and economic inequalities are only justified if they are to the greatest benefit of the least advantaged members of society.  
 
