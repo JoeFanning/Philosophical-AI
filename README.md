@@ -1,6 +1,6 @@
 # Egalitarian-AI
 ​Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
-​The word ["egalitarianism"](https://github.com/JoeFanning/Egalitarian-AI/blob/main/Egalitarianism%20research%20%20resources) comes from the French word "égal," which means "equal" or "level." It emerged during the French Revolution in the late 18th century when people were fighting for a society where everyone had the same rights and opportunities, no matter their background.
+​The word ["egalitarianism"](https://github.com/JoeFanning/Egalitarian-AI/Egalitarianism%20research%20%20resources) comes from the French word "égal," which means "equal" or "level." It emerged during the French Revolution in the late 18th century when people were fighting for a society where everyone had the same rights and opportunities, no matter their background.
 
 Egalitarian AI derives it's name from egalitarianism. Egalitarian AI would be considered an encompassing higher order for Ethical AI.
 It's not just a set of rules for a model to adhere too, but a philosophical framework that guides the design and purpose of the entire AI system and its integration into society. It asks, "Does this system contribute to a more equal and just society? Is it helping to dismantle systemic inequalities?"
