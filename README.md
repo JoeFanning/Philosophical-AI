@@ -1,4 +1,6 @@
 # Egalitarian-AI
+The development of universally "good" AI is an essential endeavour for humanity. There is currently development being done by companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. This project is an attempt to help in this endeavour.
+
 ​Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
 ​The word ["egalitarianism"](https://joefanning.github.io/Egalitarian-AI/researchresources.md)comes from the French word "égal," which means "equal" or "level." It emerged during the French Revolution in the late 18th century when people were fighting for a society where everyone had the same rights and opportunities, no matter their background.
 
