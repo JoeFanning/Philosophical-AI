@@ -7,7 +7,7 @@ The development of universally "good" AI is an essential endeavour for humanity.
 
 These are not questions that just have to be asked. They are questions that must be answer. The ultimate question is can we answer these questions for AI before it has the ability to answer these questions itself? 
 
-At the time of this writing there is currently development being done by companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. This project is an attempt to learn and possibly help with this endeavour.
+At the time of this writing there is currently development being done by companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. There "fairness toolkits" or "bias mitigation toolkits" are an example of trying to create "good' AI.
 
 ​Egalitarianism
 
