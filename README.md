@@ -1,5 +1,13 @@
 # Egalitarian-AI
-The development of universally "good" AI is an essential endeavour for humanity. There is currently development being done by companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. This project is an attempt to help in this endeavour.
+The development of universally "good" AI is an essential endeavour for humanity. This immense task is coupled by two important high level questions. 
+1.How to decide on what is good for humanity. What is ethical, moral and just for all? How to make the world a better place. 
+2.How to define these decisions into metrics for computation on AI. 
+
+These are not questions that just have to be asked. They are questions that must be answer. The ultimate question is can we answer these questions for AI before it has the ability to answer these questions itself? 
+
+At the time of this writing there is currently development being done by companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. This project is an attempt to learn and possibly help with this endeavour.
+
+Looking at question 1 again. Let's decide on Egalitarianism as an example decision for deciding on what is good. 
 
 ​Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
 ​The word ["egalitarianism"](https://joefanning.github.io/Egalitarian-AI/researchresources.md)comes from the French word "égal," which means "equal" or "level." It emerged during the French Revolution in the late 18th century when people were fighting for a society where everyone had the same rights and opportunities, no matter their background.
