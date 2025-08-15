@@ -9,6 +9,8 @@ These are not questions that just have to be asked. They are questions that must
 
 At the time of this writing there is currently development being done by companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. There "fairness toolkits" or "bias mitigation toolkits" are an example of trying to create benevolent AI.
 
+Egalitarianism a Philosophy for Benevolence
+
 ​Egalitarianism
 
 Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
@@ -17,10 +19,12 @@ Egalitarianism is a school of thought rooted in the belief that all people are f
 Egalitarian AI derives it's name from egalitarianism. Egalitarian AI would be considered an encompassing higher order for [Ethical AI](https://www.google.com/search?q=what+is+ethical+ai&oq=what+is+ethical+Ai&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgATSAQk3NDUyajBqMjmoAgCwAgE&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) .
 It's not just a set of rules for a model to adhere too, but a philosophical framework that guides the design and purpose of the entire AI system and its integration into society. It asks, "Does this system contribute to a more equal and just society? Is it helping to dismantle systemic inequalities?"
 
-Technical development
+Technical Development and Deployment 
+
+Defining a structural implementation with Egalitarian-AI 
 
 In machine learning an egalitarian model would operate at a higher level of abstraction than an ethical model.
-All the models of the AI system would be processed individually by the Ethical AI. Then all these processed models would be collectively analysed by the Egalitarian-AI. 
+All the models of the AI system would be processed individually by the Ethical AI. Then all these processed models would be collectively analysed and processed by the Egalitarian-AI. 
 
 Stage 1: The Ethical AI Layer (Individual Model Processing)
 ​This is the "local" or "micro" level of analysis. In this stage, each individual machine learning model or component within the larger AI system would be rigorously audited to ensure it meets a set of predefined ethical standards. This would be a form of automated quality control for fairness, transparency, and accountability.
