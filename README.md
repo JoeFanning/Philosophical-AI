@@ -82,8 +82,8 @@ Security:
 
 An example:
 Three ethically processed models:
-A loan approval model, a prison probation approval model and a car insurance quote estimation model. The Egalitarian-AI would use all the data from these three models. 
-It would calculate correlations symmetry between models. 
+A loan approval model, a prison probation approval model and a car insurance quote estimation model. The Egalitarian-AI would use all the data from these three models to perform comparative analysis and identify correlations between models. For instance should the Ethical model for insurance quotes be used on
+. 
 
 ​Technically, this layer would function as a system-wide monitoring and control hub:
 
