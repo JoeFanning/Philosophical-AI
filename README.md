@@ -1,4 +1,4 @@
-# Egalitarian-AI
+# A Philosophical AI
 The development of a benevolent AI is an essential endeavour for humanity. This immense task is coupled by two important high level questions. 
 
 1.How to decide on what is benevolent for humanity? What is ethical, moral and just for all? How to make the world a better place?
