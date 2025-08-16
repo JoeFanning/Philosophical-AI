@@ -8,7 +8,9 @@ The development of a benevolent AI is an essential endeavour for humanity. This 
 These are not questions that just have to be asked. They are questions that must be answer. The question is can we answer these questions for AI before it has the ability to answer these questions incorrectly itself? 
 
 At the time of this writing a wide array of frameworks exist to address the complex ethical and justice challenges of dynamic AI systems. While many of them share similar core principles, they often focus on different sectors or levels of governance.
+
 ​Global and Intergovernmental Frameworks
+
 ​These frameworks aim to provide a broad set of principles for nations and international organizations to follow.
 
 ​UNESCO Recommendation on the Ethics of Artificial Intelligence: 
