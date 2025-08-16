@@ -43,7 +43,7 @@ This model, proposed by academics, advocates for an adaptive, public-private par
 
 There is also development being done by companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. There "fairness toolkits" or "bias mitigation toolkits" are an example of trying to create benevolent AI.
 
-Egalitarianism a Philosophy for Benevolence
+Egalitarianism a Philosophy for a Benevolent AI
 
 ​Egalitarianism
 
