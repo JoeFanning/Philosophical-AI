@@ -79,11 +79,17 @@ Security:
 ​Stage 2: The Egalitarian AI Layer (Collective Analysis)
 
 ​This is the "global" or "macro" level of analysis. The Egalitarian-AI layer operates at a higher level of abstraction, taking the ethically-vetted models and analyzing their collective impact on the system and society as a whole. Its goal is to optimize for a more just and equal outcome, rather than just local fairness.
+
+An example:
+Three ethically processed models:
+A loan approval model, a prison probation approval model and a car insurance quote estimation model. The Egalitarian-AI would use all the data from these three models. 
+It would calculate correlations symmetry between models. 
+
 ​Technically, this layer would function as a system-wide monitoring and control hub:
 
 ​Systemic Feedback Loop Analysis:
 
-The Egalitarian-AI would monitor its real-world deployments. Successful ones would be replicated, and the data they generate would be integrated to optimize or scale solutions for equivalent or analogous problems. The system would also generalize these learnings to improve other, unrelated components, thereby enhancing its overall functionality.
+The Egalitarian-AI would monitor its real-world deployments. Successful deployments would be replicated, and the data they generate would be integrated to optimize or scale solutions for equivalent or analogous problems. The system would also generalize these learnings to improve other, unrelated components, thereby enhancing its overall functionality.
 
 ​External Data Integration and Impact Measurement:
 
