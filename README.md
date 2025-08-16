@@ -5,7 +5,7 @@ The development of a benevolent AI is an essential endeavour for humanity. This 
 
 2.How to define these decisions into metrics for computation in AI?
 
-These are not questions that just have to be asked. They are questions that must be answer. The ultimate question is can we answer these questions for AI before it has the ability to answer these questions incorrectly itself? 
+These are not questions that just have to be asked. They are questions that must be answer. The question is can we answer these questions for AI before it has the ability to answer these questions incorrectly itself? 
 
 At the time of this writing there is currently development being done by companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. There "fairness toolkits" or "bias mitigation toolkits" are an example of trying to create benevolent AI.
 
