@@ -22,7 +22,9 @@ This is a risk-based legal framework that regulates the development and deployme
 ​OECD AI Principles: 
 
 These principles, adopted by 42 countries, provide a set of recommendations for policymakers to promote human-centered and trustworthy AI that respects human rights and democratic values.
+
 ​Academic and Industry Frameworks
+
 ​These frameworks are often developed by researchers, non-profits, or technology companies to guide their own practices or to propose new models for governance.
 
 ​DILEMA Project (Designing International Law and Ethics into Military AI): 
