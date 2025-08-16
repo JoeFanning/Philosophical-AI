@@ -5,7 +5,7 @@ The development of a benevolent AI is an essential endeavour for humanity. This 
 
 2.How to define these decisions into metrics for computation in AI?
 
-These are not questions that just have to be asked. They are questions that must be answer. The question is can we answer these questions for AI before it has the ability to answer these questions incorrectly itself? 
+These are not questions that just have to be asked. They are questions that must be answer. The question is can we answer these questions for AI before it has the ability to answer these questions incorrectly? 
 
 At the time of this writing a wide array of frameworks exist to address the complex ethical and justice challenges of dynamic AI systems. While many of them share similar core principles, they often focus on different sectors or levels of governance.
 
