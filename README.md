@@ -66,7 +66,7 @@ The Egalitarian-AI's objective function would not be a simple metric like accura
 ​This two-tiered technical structure can be likened to the way a city's infrastructure is planned and maintained:
 ​Ethical AI: An ethical approach would be like a building inspector. They would ensure that each individual building (an AI model) is constructed to code, is safe, and has proper access for people with disabilities.
 ​Egalitarian AI: An egalitarian approach would be like the city planner. They would look at all the buildings together and ask: "Are we building a city where everyone has equal access to housing, jobs, and parks? Are we building a city that actively promotes equity and breaks down historical segregation, or are we just making sure that the new construction doesn't violate existing rules?"
-​This is a framework to design AI systems for both local ethics and global justice.
+​This is a framework to design a dynamic AI systems for both local ethics and global justice.
 
 Joe Fanning Den Haag Centrum Aug 2025
 
