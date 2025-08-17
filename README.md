@@ -9,7 +9,7 @@ These are not questions that just have to be asked. They are questions that must
 
 At the time of this writing a wide array of frameworks exist to address the complex ethical and justice challenges of dynamic AI systems. While many of them share similar core principles, they often focus on different sectors or levels of governance.
 
-​Global and Intergovernmental Frameworks
+## ​Global and Intergovernmental Frameworks
 
 ​These frameworks aim to provide a broad set of principles for nations and international organizations to follow.
 
@@ -43,9 +43,9 @@ This model, proposed by academics, advocates for an adaptive, public-private par
 
 There is also development being done by companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. There "fairness toolkits" or "bias mitigation toolkits" are an example of trying to create benevolent AI.
 
-** Egalitarianism a Philosophy for a Benevolent AI
+## Egalitarianism a Philosophy for a Benevolent AI
 
-*** ​Egalitarianism
+### ​Egalitarianism
 
 Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
 ​The word ["egalitarianism"](https://joefanning.github.io/Egalitarian-AI/researchresources.md)comes from the French word "égal," which means "equal" or "level." It emerged during the French Revolution in the late 18th century when people were fighting for a society where everyone had the same rights and opportunities, no matter their background.
@@ -53,14 +53,14 @@ Egalitarianism is a school of thought rooted in the belief that all people are f
 Egalitarian AI derives it's name from egalitarianism. Egalitarian AI would be considered an encompassing higher order for [Ethical AI](https://www.google.com/search?q=what+is+ethical+ai&oq=what+is+ethical+Ai&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgATSAQk3NDUyajBqMjmoAgCwAgE&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) .
 It's not just a set of rules for a model to adhere too, but a framework designed on a philosophy that guides the design and purpose of the entire AI system and its integration into society. It asks, "Does this system contribute to a more equal and just society? Is it helping to dismantle systemic inequalities?". 
 
-** Technical Development and Deployment 
+## Technical Development and Deployment 
 
-**fDefining a structural implementation with Egalitarian-AI 
+### Defining a structural implementation with Egalitarian-AI 
 
 In machine learning an egalitarian model would operate at a higher level of abstraction than an ethical model.
 All the models of the AI system would be processed individually by the Ethical AI. Then all these processed models would be collectively analysed and processed by the Egalitarian-AI. 
 
-Stage 1: The Ethical AI Layer (Individual Model Processing)
+## Stage 1: The Ethical AI Layer (Individual Model Processing)
 
 ​This is the "local" or "micro" level of analysis. In this stage, each individual machine learning model or component within the larger AI system would be rigorously audited to ensure it meets a set of predefined ethical standards. This would be a form of automated quality control for fairness, transparency, and accountability.
 ​Technically, this would involve a suite of automated tools and metrics applied to each model:
@@ -76,7 +76,7 @@ Security:
 
 ​This stage ensures that every single component of the AI system is "ethically sound" on its own, like checking that every individual part of a car is working correctly before assembly.
 
-​Stage 2: The Egalitarian AI Layer (Collective Analysis)
+## Stage 2: The Egalitarian AI Layer (Collective Analysis)
 
 ​This is the "global" or "macro" level of analysis. The Egalitarian-AI layer operates at a higher level of abstraction, taking the ethically-vetted models and analyzing their collective impact on the system and society as a whole. Its goal is to optimize for a more just and equal outcome, rather than just local fairness.
 
