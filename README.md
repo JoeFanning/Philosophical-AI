@@ -13,15 +13,15 @@ At the time of this writing a wide array of frameworks exist to address the comp
 
 ​These frameworks aim to provide a broad set of principles for nations and international organizations to follow.
 
-​UNESCO Recommendation on the Ethics of Artificial Intelligence: 
+**​UNESCO Recommendation on the Ethics of Artificial Intelligence:** 
 
 This is the first global standard-setting instrument on AI ethics, adopted by 193 member states. It outlines core values and principles, including proportionality, safety, fairness, and human oversight, and promotes multi-stakeholder governance.
 
-​The EU AI Act: 
+​**The EU AI Act:**
 
 This is a risk-based legal framework that regulates the development and deployment of AI in the European Union. It categorizes AI systems based on their potential to cause harm and imposes stricter requirements on higher-risk systems. It aims to create a global standard for trustworthy AI, impacting any company that wants to operate within the EU.
 
-​OECD AI Principles: 
+**OECD AI Principles:**
 
 These principles, adopted by 42 countries, provide a set of recommendations for policymakers to promote human-centered and trustworthy AI that respects human rights and democratic values.
 
@@ -29,7 +29,7 @@ These principles, adopted by 42 countries, provide a set of recommendations for 
 
 ​These frameworks are often developed by researchers, non-profits, or technology companies to guide their own practices or to propose new models for governance.
 
-​DILEMA Project (Designing International Law and Ethics into Military AI): 
+​**DILEMA Project (Designing International Law and Ethics into Military AI):** 
 
 This project focuses specifically on the ethical and legal challenges of AI in military applications. It aims to ensure that human agency is maintained over military AI systems and that they comply with international law.
 
