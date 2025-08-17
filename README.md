@@ -66,7 +66,9 @@ All the models of the AI system would be processed individually by the Ethical A
 ​Technically, this would involve a suite of automated tools and metrics applied to each model:
 ​Bias Detection and Fairness Audits: Before a model is deployed, an Ethical AI layer would run a series of fairness tests. It would use metrics for example like [Disparate Impact, Equal Opportunity Difference, or Statistical Parity](https://joefanning.github.io/Egalitarian-AI/ethicalbiasmodels.md) to check for bias across different demographic subgroup. These metrics are used in algorithms in<br>
 [IBM AI Fairness 360 (AIF360) toolkit](https://research.ibm.com/blog/ai-fairness-360).<br>
-IBM AI Fairness 360 (AIF360) on [Github](https://github.com/Trusted-AI/AIF360) 
+IBM AI Fairness 360 (AIF360) on [Github](https://github.com/Trusted-AI/AIF360)<br>
+Example supported bias mitigation algorithm:
+Optimized Preprocessing (Calmon et al., 2017)
 
 **​Explainability (XAI)** 
 
