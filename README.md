@@ -25,12 +25,12 @@ This is a risk-based legal framework that regulates the development and deployme
 
 These principles, adopted by 42 countries, provide a set of recommendations for policymakers to promote human-centered and trustworthy AI that respects human rights and democratic values.
 
-**​Academic and Industry Frameworks**
+### ​Academic and Industry Frameworks**
 
 ​These frameworks are often developed by researchers, non-profits, or technology companies to guide their own practices or to propose new models for governance.
 Companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. Their "fairness toolkits" or "bias mitigation toolkits" are an example of trying to create benevolent AI.
 
-​**DILEMA Project (Designing International Law and Ethics into Military AI)** 
+[​**DILEMA Project (Designing International Law and Ethics into Military AI)**](https://www.asser.nl/DILEMA?hl=en-gb) 
 
 This project focuses specifically on the ethical and legal challenges of AI in military applications. It aims to ensure that human agency is maintained over military AI systems and that they comply with international law.
 
