@@ -29,10 +29,10 @@ These principles, adopted by 42 countries, provide a set of recommendations for 
 
 ​These frameworks are often developed by researchers, non-profits, or technology companies to guide their own practices or to propose new models for governance.
 
-Companies like:
-[IBM (AIF360)](https://research.ibm.com/blog/ai-fairness-360), 
-[Microsoft (Fairlearn)](https://fairlearn.org/v0.12/about/index.html),
-[Google (What-If Tool)](https://research.google/pubs/the-what-if-tool-interactive-probing-of-machine-learning-models/) 
+Companies like:<br>
+[IBM (AIF360)](https://research.ibm.com/blog/ai-fairness-360),<br>
+[Microsoft (Fairlearn)](https://fairlearn.org/v0.12/about/index.html),<br>
+[Google (What-If Tool)](https://research.google/pubs/the-what-if-tool-interactive-probing-of-machine-learning-models/)<br> 
 have developed toolkits: "fairness toolkits" or "bias mitigation toolkits" which implement ethical governance over AI models.
 
 [​**DILEMA Project (Designing International Law and Ethics into Military AI)**](https://www.asser.nl/DILEMA?hl=en-gb) 
