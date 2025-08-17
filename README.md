@@ -59,23 +59,23 @@ It's not just a set of rules for a model to adhere too, but a framework designed
 In machine learning an egalitarian model would operate at a higher level of abstraction than an ethical model.
 All the models of the AI system would be processed individually by the Ethical AI. Then all these processed models would be collectively analysed and processed by the Egalitarian-AI. 
 
-## Stage 1: The Ethical AI Layer (Individual Model Processing)
+#### Stage 1: The Ethical AI Layer (Individual Model Processing)
 
 ​This is the "local" or "micro" level of analysis. In this stage, each individual machine learning model or component within the larger AI system would be rigorously audited to ensure it meets a set of predefined ethical standards. This would be a form of automated quality control for fairness, transparency, and accountability.
 ​Technically, this would involve a suite of automated tools and metrics applied to each model:
 ​Bias Detection and Fairness Audits: Before a model is deployed, an Ethical AI layer would run a series of fairness tests. It would use metrics like [Disparate Impact, Equal Opportunity Difference, or Statistical Parity](https://joefanning.github.io/Egalitarian-AI/ethicalbiasmodels.md) to check for bias across different demographic subgroup. These metrics are used in toolkits like IBM AI Fairness 360 (AIF360) toolkit. 
 
-​Explainability (XAI): 
+**​Explainability (XAI):** 
 
 The layer would produce a detailed explainability report for each model using techniques like SHAP (SHapley Additive exPlanations) or LIME (Local Interpretable Model-agnostic Explanations). This would ensure that an operator can understand why a particular model is making its decisions.
 
-Security:
+**Security:**
 
 ​Privacy and Robustness Checks: Automated scans would check for vulnerabilities like data leakage or susceptibility to adversarial attacks. The goal is to ensure the model is secure and protects user data.
 
 ​This stage ensures that every single component of the AI system is "ethically sound" on its own, like checking that every individual part of a car is working correctly before assembly.
 
-## Stage 2: The Egalitarian AI Layer (Collective Analysis)
+#### Stage 2: The Egalitarian AI Layer (Collective Analysis)
 
 ​This is the "global" or "macro" level of analysis. The Egalitarian-AI layer operates at a higher level of abstraction, taking the ethically-vetted models and analyzing their collective impact on the system and society as a whole. Its goal is to optimize for a more just and equal outcome, rather than just local fairness.
 
@@ -87,19 +87,19 @@ let's say the loan approval model is less likely to approve loans for people in 
 The Egalitarian-AI could also use all the data from these three models to perform [ensemble learning](https://www.google.com/search?q=ensemble+learning+in+computer+science&oq=ensemble+learning+in+computer+science&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHjIICAoQABgWGB4yCAgLEAAYFhgeMggIDBAAGBYYHjIICA0QABgWGB4yCAgOEAAYFhge0gEJMjE4NjlqMGo0qAIOsAIB8QW_RZ0sa6bcKg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
 It would identify data relationships between the models data in cleaning, exploring, and modeling of the data. It would then perform comparative analyse of the three models [model training, and evaluation](https://www.google.com/search?q=model+training+and+evaluation&oq=model+training+and+evaluation&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgFGB4yCAgDEAAYBRgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBgeMggIChAAGAgYHjIICAsQABgIGB7SAQkxOTc5NmowajeoAg-wAgHxBVW1XJkouRqp8QVVtVyZKLkaqQ&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8). It could identify model relationships and where one model could be improved in relationship to another or others, or how many models could be improved in relation to one. 
 
-​Systemic Feedback Loop Analysis:
+**​Systemic Feedback Loop Analysis:**
 
 The Egalitarian-AI would monitor its real-world deployments. Successful deployments would be replicated, and the data they generate would be integrated to optimize or scale solutions for equivalent or analogous problems. The system would also generalize these learnings to improve other, unrelated components, thereby enhancing its overall functionality.
 
-​External Data Integration and Impact Measurement:
+​**External Data Integration and Impact Measurement:**
 
 This is a key differentiator. The Egalitarian-AI would not just use internal data but would also integrate with external, real-world data streams (e.g., census data, public health records, economic indicators). It would then analyze the system's overall impact. For example, "Is the deployment of our educational AI system actually narrowing the academic achievement gap, or is it only benefiting students in well-resourced schools?"
 
-​Resource and Opportunity Allocation: 
+​**Resource and Opportunity Allocation:** 
 
 If the AI system is a suite of services, the Egalitarian-AI would ensure the distribution of these services is equitable. It might actively shift resources or prioritize service access for historically underserved communities to correct for systemic imbalances.
 
-​Macro-Level Optimization: 
+​**Macro-Level Optimization:** 
 
 The Egalitarian-AI's objective function would not be a simple metric like accuracy or fairness score, but a complex, multi-variable function that seeks to maximize social equality. It might recommend re-calibrating individual models or re-configuring the entire system to achieve a better societal outcome.
 ​Analogy: A City's Infrastructure
