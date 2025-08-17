@@ -13,7 +13,7 @@ At the time of this writing a wide array of frameworks exist to address the comp
 
 ​These frameworks aim to provide a broad set of principles for nations and international organizations to follow.
 
-**​UNESCO Recommendation on the Ethics of Artificial Intelligence** 
+[**​UNESCO Recommendation on the Ethics of Artificial Intelligence**](https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence) 
 
 This is the first global standard-setting instrument on AI ethics, adopted by 193 member states. It outlines core values and principles, including proportionality, safety, fairness, and human oversight, and promotes multi-stakeholder governance.
 
