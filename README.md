@@ -64,8 +64,9 @@ All the models of the AI system would be processed individually by the Ethical A
 
 ​This is the "local" or "micro" level of analysis. In this stage, each individual machine learning model or component within the larger AI system would be rigorously audited to ensure it meets a set of predefined ethical standards. This would be a form of automated quality control for fairness, transparency, and accountability.
 ​Technically, this would involve a suite of automated tools and metrics applied to each model:
-​Bias Detection and Fairness Audits: Before a model is deployed, an Ethical AI layer would run a series of fairness tests. It would use metrics for example like [Disparate Impact, Equal Opportunity Difference, or Statistical Parity](https://joefanning.github.io/Egalitarian-AI/ethicalbiasmodels.md) to check for bias across different demographic subgroup. These metrics are used in algorithms in [IBM AI Fairness 360 (AIF360) toolkit](https://research.ibm.com/blog/ai-fairness-360).<br>
-AIF360 on [Github](https://github.com/Trusted-AI/AIF360) 
+​Bias Detection and Fairness Audits: Before a model is deployed, an Ethical AI layer would run a series of fairness tests. It would use metrics for example like [Disparate Impact, Equal Opportunity Difference, or Statistical Parity](https://joefanning.github.io/Egalitarian-AI/ethicalbiasmodels.md) to check for bias across different demographic subgroup. These metrics are used in algorithms in<br>
+[IBM AI Fairness 360 (AIF360) toolkit](https://research.ibm.com/blog/ai-fairness-360).<br>
+The AIF360 [Github](https://github.com/Trusted-AI/AIF360) 
 
 **​Explainability (XAI)** 
 
