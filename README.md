@@ -7,9 +7,9 @@ The development of a benevolent AI is an essential endeavour for humanity. This 
 
 These are not questions that just have to be asked. They are questions that must be answer. The question is can we answer these questions for AI before it has the ability to answer these questions incorrectly? 
 
-At the time of this writing a wide array of frameworks exist to address the complex ethical and justice challenges of dynamic AI systems. While many of them share similar core principles, they often focus on different sectors or levels of governance.
-
 ## ​Global and Intergovernmental Frameworks
+
+At the time of this writing a wide array of frameworks exist to address the complex ethical and justice challenges of dynamic AI systems. While many of them share similar core principles, they often focus on different sectors or levels of governance.
 
 ​These frameworks aim to provide a broad set of principles for nations and international organizations to follow.
 
@@ -25,23 +25,22 @@ This is a risk-based legal framework that regulates the development and deployme
 
 These principles, adopted by 42 countries, provide a set of recommendations for policymakers to promote human-centered and trustworthy AI that respects human rights and democratic values.
 
-​Academic and Industry Frameworks
+**​Academic and Industry Frameworks**
 
 ​These frameworks are often developed by researchers, non-profits, or technology companies to guide their own practices or to propose new models for governance.
+Companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. Their "fairness toolkits" or "bias mitigation toolkits" are an example of trying to create benevolent AI.
 
 ​**DILEMA Project (Designing International Law and Ethics into Military AI):** 
 
 This project focuses specifically on the ethical and legal challenges of AI in military applications. It aims to ensure that human agency is maintained over military AI systems and that they comply with international law.
 
-​The Montreal Declaration for Responsible AI: 
+​**The Montreal Declaration for Responsible AI:**
 
 This declaration, developed through a collaborative, public process, outlines principles for the ethical development and deployment of AI, with a strong emphasis on well-being, social justice, and democracy.
 
-​A Dynamic Governance Model for AI: 
+**​A Dynamic Governance Model for AI:** 
 
 This model, proposed by academics, advocates for an adaptive, public-private partnership approach to AI governance. It suggests that a collaborative, multi-stakeholder framework is necessary to keep pace with the rapid evolution of AI technology.
-
-There is also development being done by companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. There "fairness toolkits" or "bias mitigation toolkits" are an example of trying to create benevolent AI.
 
 ## Egalitarianism a Philosophy for a Benevolent AI
 
