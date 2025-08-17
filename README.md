@@ -43,9 +43,9 @@ This model, proposed by academics, advocates for an adaptive, public-private par
 
 There is also development being done by companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. There "fairness toolkits" or "bias mitigation toolkits" are an example of trying to create benevolent AI.
 
-Egalitarianism a Philosophy for a Benevolent AI
+** Egalitarianism a Philosophy for a Benevolent AI
 
-​Egalitarianism
+*** ​Egalitarianism
 
 Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
 ​The word ["egalitarianism"](https://joefanning.github.io/Egalitarian-AI/researchresources.md)comes from the French word "égal," which means "equal" or "level." It emerged during the French Revolution in the late 18th century when people were fighting for a society where everyone had the same rights and opportunities, no matter their background.
@@ -53,9 +53,9 @@ Egalitarianism is a school of thought rooted in the belief that all people are f
 Egalitarian AI derives it's name from egalitarianism. Egalitarian AI would be considered an encompassing higher order for [Ethical AI](https://www.google.com/search?q=what+is+ethical+ai&oq=what+is+ethical+Ai&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgATSAQk3NDUyajBqMjmoAgCwAgE&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) .
 It's not just a set of rules for a model to adhere too, but a framework designed on a philosophy that guides the design and purpose of the entire AI system and its integration into society. It asks, "Does this system contribute to a more equal and just society? Is it helping to dismantle systemic inequalities?". 
 
-Technical Development and Deployment 
+** Technical Development and Deployment 
 
-Defining a structural implementation with Egalitarian-AI 
+**fDefining a structural implementation with Egalitarian-AI 
 
 In machine learning an egalitarian model would operate at a higher level of abstraction than an ethical model.
 All the models of the AI system would be processed individually by the Ethical AI. Then all these processed models would be collectively analysed and processed by the Egalitarian-AI. 
@@ -86,7 +86,7 @@ A loan approval model, a job application approval rating model and a car insuran
 let's say the loan approval model is less likely to approve loans for people in certain neighborhoods, the job application model favors candidates with addresses in wealthier areas, and the car insurance model gives higher rates to people living in specific zip codes. Even if each model seems fair on its own, when you look at them together, you might find that people from lower-income neighborhoods are consistently facing disadvantages across the board.
 
 The Egalitarian-AI could also use all the data from these three models to perform [ensemble learning](https://www.google.com/search?q=ensemble+learning+in+computer+science&oq=ensemble+learning+in+computer+science&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHjIICAoQABgWGB4yCAgLEAAYFhgeMggIDBAAGBYYHjIICA0QABgWGB4yCAgOEAAYFhge0gEJMjE4NjlqMGo0qAIOsAIB8QW_RZ0sa6bcKg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
-It would identify data relationships between the models data in cleaning, exploring, and modeling of the data. It would then perform comparative analyse of the three models [model training, and evaluation](https://www.google.com/search?q=model+training+and+evaluation&oq=model+training+and+evaluation&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgFGB4yCAgDEAAYBRgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBgeMggIChAAGAgYHjIICAsQABgIGB7SAQkxOTc5NmowajeoAg-wAgHxBVW1XJkouRqp8QVVtVyZKLkaqQ&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8). It could identify model relationships and where one model could be improved in relationship to another or others or how many models could be improved in relation to one. External resourses could also be used to enhance functionality, such as using exiting successfull real world Egalitarian-AI deployments for optimisation on current applications. Or recalling existing real world Egalitarian-AI deployments for optimisation based on current outperforming applications. Other real-world data streams (e.g., census data, public health records, economic indicators) would also be integrated into the functionality to assist in development. 
+It would identify data relationships between the models data in cleaning, exploring, and modeling of the data. It would then perform comparative analyse of the three models [model training, and evaluation](https://www.google.com/search?q=model+training+and+evaluation&oq=model+training+and+evaluation&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgFGB4yCAgDEAAYBRgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBgeMggIChAAGAgYHjIICAsQABgIGB7SAQkxOTc5NmowajeoAg-wAgHxBVW1XJkouRqp8QVVtVyZKLkaqQ&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8). It could identify model relationships and where one model could be improved in relationship to another or others, or how many models could be improved in relation to one. 
 
 ​Systemic Feedback Loop Analysis:
 
