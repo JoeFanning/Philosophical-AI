@@ -21,7 +21,7 @@ This is the first global standard-setting instrument on AI ethics, adopted by 19
 
 This is a risk-based legal framework that regulates the development and deployment of AI in the European Union. It categorizes AI systems based on their potential to cause harm and imposes stricter requirements on higher-risk systems. It aims to create a global standard for trustworthy AI, impacting any company that wants to operate within the EU.
 
-**OECD AI Principles**
+[**OECD AI Principles**](https://www.oecd.org/en/topics/sub-issues/ai-principles.html) 
 
 These principles, adopted by 42 countries, provide a set of recommendations for policymakers to promote human-centered and trustworthy AI that respects human rights and democratic values.
 
