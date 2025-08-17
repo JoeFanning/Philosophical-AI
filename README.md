@@ -28,19 +28,16 @@ These principles, adopted by 42 countries, provide a set of recommendations for 
 ### ​Academic and Industry Frameworks**
 
 ​These frameworks are often developed by researchers, non-profits, or technology companies to guide their own practices or to propose new models for governance.
-Companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. Their "fairness toolkits" or "bias mitigation toolkits" are an example of trying to create benevolent AI.
+
+Companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) have developed toolkits: "fairness toolkits" or "bias mitigation toolkits" which implement ethical governance over AI models.
 
 [​**DILEMA Project (Designing International Law and Ethics into Military AI)**](https://www.asser.nl/DILEMA?hl=en-gb) 
 
 This project focuses specifically on the ethical and legal challenges of AI in military applications. It aims to ensure that human agency is maintained over military AI systems and that they comply with international law.
 
-​**The Montreal Declaration for Responsible AI**
+​[**The Montreal Declaration for Responsible AI**](https://montrealdeclaration-responsibleai.com/) 
 
 This declaration, developed through a collaborative, public process, outlines principles for the ethical development and deployment of AI, with a strong emphasis on well-being, social justice, and democracy.
-
-**​A Dynamic Governance Model for AI** 
-
-This model, proposed by academics, advocates for an adaptive, public-private partnership approach to AI governance. It suggests that a collaborative, multi-stakeholder framework is necessary to keep pace with the rapid evolution of AI technology.
 
 ## Egalitarianism a Philosophy for a Benevolent AI
 
