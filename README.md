@@ -7,7 +7,7 @@ The development of a benevolent AI is an essential endeavour for humanity. This 
 
 These are not questions that just have to be asked. They are questions that must be answer. The question is can we answer these questions for AI before it has the ability to answer these questions incorrectly? 
 
-## ​Global and Intergovernmental Frameworks
+## ​Global and Intergovernmental Frameworks:
 
 At the time of this writing a wide array of frameworks exist to address the complex ethical and justice challenges of dynamic AI systems. While many of them share similar core principles, they often focus on different sectors or levels of governance.
 
@@ -25,7 +25,7 @@ This is a risk-based legal framework that regulates the development and deployme
 
 These principles, adopted by 42 countries, provide a set of recommendations for policymakers to promote human-centered and trustworthy AI that respects human rights and democratic values.
 
-**​Academic and Industry Frameworks**
+**​Academic and Industry Frameworks:**
 
 ​These frameworks are often developed by researchers, non-profits, or technology companies to guide their own practices or to propose new models for governance.
 Companies like IBM (AIF360), Microsoft (Fairlearn), Google (What-If Tool) and other companies and entities. Their "fairness toolkits" or "bias mitigation toolkits" are an example of trying to create benevolent AI.
