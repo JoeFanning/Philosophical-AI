@@ -118,5 +118,6 @@ The Egalitarian-AI's objective function would not be a simple metric like accura
 
 Joe Fanning Den Haag Centrum Aug 2025
 
-Resourses:
+Resourses to read:
+An Intersectional Definition of Fairness:<br>
 https://ui.adsabs.harvard.edu/abs/2018arXiv180708362F/abstract
