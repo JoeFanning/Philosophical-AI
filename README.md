@@ -63,8 +63,9 @@ It's not just a set of rules for a model to adhere too, but a framework designed
 In machine learning an egalitarian model would operate at a higher level of abstraction than an ethical model.
 All the models of the AI system would be processed individually by the Ethical AI. Then all these processed models would be collectively analysed and processed by the Egalitarian-AI. 
 
-It would also self adapt it's structure and functionality based on dynamic information from its own data and from external data. Like
-[Adaptive machine learning models] (resources/Adaptive Machine Learning Algorithms: Improving Efficiency through Dynamic Model Adjustment.pdf) it would adjust its parameters and structure as it's exposed to new data, allowing it to handle changing information or environments.
+It would also self adapt it's structure and functionality based on dynamic information from its own data and from external data.
+This self adaption is done with
+[Adaptive machine learning models] (resources/Adaptive_Machine Learning_Algorithms:_Improving Efficiency_through_Dynamic_Model Adjustment.pdf) it would adjust its parameters and structure as it's exposed to new data, allowing it to handle changing information or environments.
 
 #### Stage 1: The Ethical AI Layer (Individual Model Processing)
 
