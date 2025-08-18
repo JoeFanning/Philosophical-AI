@@ -89,7 +89,7 @@ While Ethical AI can help reduce explicit biases related to single attributes (l
 Research has already been done in this area:<br>
 [An Intersectional Definition of Fairness](https://ui.adsabs.harvard.edu/abs/2018arXiv180708362F/abstract) 
 
-One of Egalitarian-AI's fundamental functions is to identify these compounded forms of discrimination.
+One of Egalitarian-AI's functions would be to identify these compounded forms of discrimination.
 
 A theoretical real world example:
 Three ethically processed models:
