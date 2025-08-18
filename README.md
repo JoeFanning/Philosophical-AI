@@ -83,7 +83,7 @@ The layer would produce a detailed explainability report for each model using te
 
 ​This is the "global" or "macro" level of analysis. The Egalitarian-AI layer operates at a higher level of abstraction, taking the ethically-vetted models and analyzing their collective impact on the system and society as a whole.<br>
 For example:<br>
-[Intersectionality] (https://researchguides.library.syr.edu/fys101/intersectionality)
+[Intersectionality](https://researchguides.library.syr.edu/fys101/intersectionality) 
 <br>
 While Ethical AI can help reduce explicit biases related to single attributes (like race or gender), addressing intersectional bias—where multiple, overlapping identities create unique and compounded forms of discrimination—is far more complex. The core issue is that intersectional bias isn't just a simple combination of individual biases; it's often a unique harm that doesn't appear when looking at individual groups separately
 
