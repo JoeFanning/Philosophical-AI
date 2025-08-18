@@ -76,15 +76,18 @@ The layer would produce a detailed explainability report for each model using te
 
 **Security**
 
-​Privacy and Robustness Checks: Automated scans would check for vulnerabilities like data leakage or susceptibility to adversarial attacks. The goal is to ensure the model is secure and protects user data.
-
+​Privacy and Robustness Checks: Automated scans would check for vulnerabilities like data leakage or susceptibility to adversarial attacks. The goal is to ensure the model is secure and protects user data. 
 ​This stage ensures that every single component of the AI system is "ethically sound" on its own, like checking that every individual part of a car is working correctly before assembly.
 
 #### Stage 2: The Egalitarian AI Layer (Collective Analysis)
 
-​This is the "global" or "macro" level of analysis. The Egalitarian-AI layer operates at a higher level of abstraction, taking the ethically-vetted models and analyzing their collective impact on the system and society as a whole. Its goal is to optimize for a more just and equal outcome, rather than just local fairness.
+​This is the "global" or "macro" level of analysis. The Egalitarian-AI layer operates at a higher level of abstraction, taking the ethically-vetted models and analyzing their collective impact on the system and society as a whole.
+For example:
+while Ethical AI can help reduce explicit biases related to single attributes (like race or gender), addressing intersectional bias—where multiple, overlapping identities create unique and compounded forms of discrimination—is far more complex. The core issue is that intersectional bias isn't just a simple combination of individual biases; it's often a unique harm that doesn't appear when looking at individual groups separately
 
-An example:
+One of Egalitarian-AIs fundamental objectives is to identify these compounded forms of discrimination caused byis to optimize for a more just and equal outcome, rather than just local fairness.
+
+An theoretical real world example:
 Three ethically processed models:
 A loan approval model, a job application approval rating model and a car insurance quote estimation model.
 let's say the loan approval model is less likely to approve loans for people in certain neighborhoods, the job application model favors candidates with addresses in wealthier areas, and the car insurance model gives higher rates to people living in specific zip codes. Even if each model seems fair on its own, when you look at them together, you might find that people from lower-income neighborhoods are consistently facing disadvantages across the board.
