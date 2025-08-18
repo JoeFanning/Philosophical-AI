@@ -109,20 +109,26 @@ Three ethically processed models:
 A loan approval model, a job application approval rating model and a car insurance quote estimation model.
 let's say the loan approval model is less likely to approve loans for people in certain neighborhoods, the job application model favors candidates with addresses in wealthier areas, and the car insurance model gives higher rates to people living in specific zip codes. Even if each model seems fair on its own, when you look at them together, you might find that people from lower-income neighborhoods are consistently facing disadvantages across the board.
 
-**Where past results shouldn't define future decisions**
-If the data truthfully reflects that Black people, on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that caused this disparity. An AI model trained on this data will learn this pattern and, as a result, will likely continue to deny loans or charge higher interest rates to Black applicants, even if they are individually creditworthy.
-​The issue is that the credit scoring system, and the data it produces, are deeply intertwined with historical and systemic inequalities.
-​The Roots of the Disparity
-​Redlining: For decades, the Federal Housing Administration and other institutions used a practice called "redlining" to refuse to guarantee home loans in Black communities. This deprived Black families of a key way to build wealth and good credit.
-​Income and Wealth Gaps: Due to historical and ongoing discrimination in employment and housing, Black households have significantly lower median income and wealth than white households. This makes it harder to pay bills on time, save money, and maintain a low credit utilization ratio, all of which are key factors in credit scores.
-​Credit "Invisibility": Many people in historically marginalized communities are "credit invisible," meaning they don't have enough credit history to generate a score. They may pay their bills on time (rent, utilities, etc.), but that information isn't typically included in traditional credit reports.
-​The Unfairness
-​The unfairness isn't that the AI is "lying" about the data. The unfairness is that the data itself is a reflection of a system that has historically disadvantaged a group of people. If an AI model simply learns to replicate that system, it automates and perpetuates a historical injustice.
-​The goal of creating "fair" AI isn't to pretend that these disparities don't exist. It's to build a system that can look beyond the raw, biased data and make decisions based on an individual's true creditworthiness, rather than on the systemic disadvantages they face.
-
-**Calibrating the structure of the system**
+**Calibrating the structure of the system**<br>
 The Egalitarian-AI could also use the data from these three models to perform [ensemble learning](https://www.google.com/search?q=ensemble+learning+in+computer+science&oq=ensemble+learning+in+computer+science&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHjIICAoQABgWGB4yCAgLEAAYFhgeMggIDBAAGBYYHjIICA0QABgWGB4yCAgOEAAYFhge0gEJMjE4NjlqMGo0qAIOsAIB8QW_RZ0sa6bcKg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
 It would identify relationships between the models data cleaning, exploring, and modeling. It would then perform comparative analyse of the three models [model training, and evaluation](https://www.google.com/search?q=model+training+and+evaluation&oq=model+training+and+evaluation&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgFGB4yCAgDEAAYBRgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBgeMggIChAAGAgYHjIICAsQABgIGB7SAQkxOTc5NmowajeoAg-wAgHxBVW1XJkouRqp8QVVtVyZKLkaqQ&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8). It could identify models structural relationships and where one model could be improved structurally in relationship to another or others, or how many models could be improved in relation to one. 
+
+**The Systems Macro Perspective:<br> 
+Past results should not define future decisions**<br>
+If data truthfully reflects that Black people, on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that caused this disparity. 
+
+An AI model trained on this data will learn this pattern and, as a result, will likely continue to deny loans or charge higher interest rates to Black applicants, even if they are individually creditworthy.
+​The issue is that the credit scoring system, and the data it produces, are deeply intertwined with historical and systemic inequalities.
+
+
+​**The Roots of the Disparity**<br>
+​Redlining: For decades, the Federal Housing Administration and other institutions used a practice called "redlining" to refuse to guarantee home loans in Black communities. This deprived Black families of a key way to build wealth and good credit.
+​Income and Wealth Gaps: Due to historical and ongoing discrimination in employment and housing, Black households have significantly lower median income and wealth than white households. This makes it harder to pay bills on time, save money, and maintain a low credit utilization ratio, all of which are key factors in credit scores.<br>
+​Credit "Invisibility": <br>
+Many people in historically marginalized communities are "credit invisible," meaning they don't have enough credit history to generate a score. They may pay their bills on time (rent, utilities, etc.), but that information isn't typically included in traditional credit reports.<br>
+​The Unfairness<br>
+​The unfairness isn't that the AI is "lying" about the data. The unfairness is that the data itself is a reflection of a system that has historically disadvantaged a group of people. If an AI model simply learns to replicate that system, it automates and perpetuates a historical injustice.
+​The goal of creating "fair" AI isn't to pretend that these disparities don't exist. It's to build a system that can look beyond the raw, biased data and make decisions based on an individual's true creditworthiness, rather than on the systemic disadvantages they face.
 
 **​Systemic Feedback Loop Analysis**
 
