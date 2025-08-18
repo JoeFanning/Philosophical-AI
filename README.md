@@ -1,7 +1,9 @@
 # Egalitarian-AI 
 
-[test] (Resources/Adaptive_Machine_Learning_Algorithms1.pdf/) 
+[test] (Resources/Adaptive_Machine_Learning_Algorithms1.pdf) 
 
+
+Resources/Adaptive_Machine_Learning_Algorithms1.pdf
 ​[**The EU AI Act**](https://artificialintelligenceact.eu/) 
 ## Abstract<br>
 The development of a benevolent AI is an essential endeavour for humanity. This immense task is coupled by two important questions. 
