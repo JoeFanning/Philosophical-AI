@@ -62,6 +62,8 @@ It's not just a set of rules for a model to adhere too, but a framework designed
 In machine learning an egalitarian model would operate at a higher level of abstraction than an ethical model.
 All the models of the AI system would be processed individually by the Ethical AI. Then all these processed models would be collectively analysed and processed by the Egalitarian-AI. 
 
+It would also self adapt it's structure and functionality based on dynamic information from its own data and from external data. 
+
 #### Stage 1: The Ethical AI Layer (Individual Model Processing)
 
 ​This is the "local" or "micro" level of analysis. In this stage, each individual machine learning model or component within the larger AI system would be rigorously audited to ensure it meets a set of predefined ethical standards. This would be a form of automated quality control for fairness, transparency, and accountability.
