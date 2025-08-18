@@ -1,6 +1,7 @@
 # Egalitarian-AI 
 [test](Resources/Adaptive_Machine_Learning_Algorithms1.pdf)
-[test] ( Resources/Adaptive_Machine_Learning_Algorithms1.pdf) 
+
+[test](Resources/Adaptive_Machine_Learning_Algorithms1.pdf) 
 
 
 Resources/Adaptive_Machine_Learning_Algorithms1.pdf
