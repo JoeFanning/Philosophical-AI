@@ -81,7 +81,8 @@ The layer would produce a detailed explainability report for each model using te
 
 #### Stage 2: The Egalitarian AI Layer (Collective Analysis)
 
-​This is the "global" or "macro" level of analysis. The Egalitarian-AI layer operates at a higher level of abstraction, taking the ethically-vetted models and analyzing their collective impact on the system and society as a whole.<br>
+​This is the "global" or "macro" level of analysis. The Egalitarian-AI layer operates at a higher level of abstraction, taking the ethically-vetted models and analyzing their collective impact on the system and society as a whole.
+
 For example:<br>
 [Intersectionality](https://researchguides.library.syr.edu/fys101/intersectionality) 
 <br>
@@ -89,7 +90,7 @@ While Ethical AI can help reduce explicit biases related to single attributes (l
 
 One of Egalitarian-AIs fundamental functions is to identify these compounded forms of discrimination.
 
-An theoretical real world example:
+A theoretical real world example:
 Three ethically processed models:
 A loan approval model, a job application approval rating model and a car insurance quote estimation model.
 let's say the loan approval model is less likely to approve loans for people in certain neighborhoods, the job application model favors candidates with addresses in wealthier areas, and the car insurance model gives higher rates to people living in specific zip codes. Even if each model seems fair on its own, when you look at them together, you might find that people from lower-income neighborhoods are consistently facing disadvantages across the board.
