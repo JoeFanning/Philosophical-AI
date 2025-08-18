@@ -57,7 +57,7 @@ It's not just a set of rules for a model to adhere too, but a framework designed
 
 ## Technical Development and Deployment 
 
-### Defining a structural implementation with Egalitarian-AI 
+### Defining a System implementation for Egalitarian-AI 
 
 In machine learning an egalitarian model would operate at a higher level of abstraction than an ethical model.
 All the models of the AI system would be processed individually by the Ethical AI. Then all these processed models would be collectively analysed and processed by the Egalitarian-AI. 
