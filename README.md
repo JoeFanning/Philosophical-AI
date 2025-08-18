@@ -66,7 +66,7 @@ All the models of the AI system would be processed individually by the Ethical A
 It would also self adapt it's structure and functionality based on dynamic information from its own data and from external data.
 It could use self adaption like what is implemented in
 adaptive machine learning models
-(Resources:[Improving Efficiency through Dynamic Model Adjustment] (Resources/Adaptive_Machine_Learning_Algorithms1.pdf)) they adjust their parameters and structure as they are exposed to new data, allowing them to handle changing information or environments.
+[Resourses: Improving Efficiency through Dynamic Model Adjustment] (Resources/Adaptive_Machine_Learning_Algorithms1.pdf) they adjust their parameters and structure as they are exposed to new data, allowing them to handle changing information or environments.
 Instead of only
 improving efficiency through dynamic model adjustment it would also improve efficiency through dynamic system and framework adjustment. 
 
