@@ -82,6 +82,8 @@ The layer would produce a detailed explainability report for each model using te
 
 ​This is the "global" or "macro" level of analysis. The Egalitarian-AI layer operates at a higher level of abstraction, taking the ethically-vetted models and analyzing their collective impact on the system and society as a whole.
 
+It must dynamically identify where past results have successfully influenced future events. 
+
 For example:<br>
 [Intersectionality](https://researchguides.library.syr.edu/fys101/intersectionality) 
 <br>
@@ -114,6 +116,8 @@ It would identify relationships between the models data cleaning, exploring, and
 **​Systemic Feedback Loop Analysis**
 
 The Egalitarian-AI would monitor its real-world deployments. Successful deployments would be replicated, and the data they generate would be integrated to optimize or scale solutions for equivalent or analogous problems. The system would also generalize these learnings to improve other, unrelated components, thereby enhancing its overall functionality.
+
+The structural functionality should adapt and improve depending on successfull metrics and the successful metrics should adapt and improve depending on tbe successfully structural functionality. 
 
 ​**External Data Integration and Impact Measurement**
 
