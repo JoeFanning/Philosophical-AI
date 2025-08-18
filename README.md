@@ -68,7 +68,7 @@ adaptive machine learning models:
 [Resources: Improving Efficiency through Dynamic Model Adjustment. ](Resources/Adaptive_Machine_Learning_Algorithms1.pdf) Adaptive machine learning models adjust their parameters and structure as they are exposed to new data, allowing them to handle changing information or environments.
 Instead of only
 improving efficiency through dynamic model adjustment Egalitarian-AI would also improve efficiency through dynamic framework and system adjustment. 
-Structure and operation(underlying structure and its functional components) could be adapted and improved in real time giving the system exponential improvement. 
+Structure and operation(underlying structure and its functional components) could be adapted and improved in real time giving the system the possibility of exponential improvement. 
 
 #### Stage 1: The Ethical AI Layer (Individual Model Processing)
 
