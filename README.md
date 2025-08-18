@@ -65,7 +65,7 @@ All the models of the AI system would be processed individually by the Ethical A
 
 It would also self adapt it's structure and functionality based on dynamic information from its own data and from external data.
 This self adaption is done with
-[Adaptive machine learning models](Resources/Adaptive_Machine_Learning_Algorithms1.pdf) it would adjust its parameters and structure as it's exposed to new data, allowing it to handle changing information or environments.
+[Adaptive machine learning models](Resources/Adaptive_Machine_Learning_Algorithms1.pdf) they adjust their parameters and structure as they are exposed to new data, allowing them to handle changing information or environments.
 
 #### Stage 1: The Ethical AI Layer (Individual Model Processing)
 
