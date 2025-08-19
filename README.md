@@ -48,7 +48,7 @@ This project focuses specifically on the ethical and legal challenges of AI in m
 
 This declaration, developed through a collaborative, public process, outlines principles for the ethical development and deployment of AI, with a strong emphasis on well-being, social justice, and democracy.
 
-## Egalitarianism a Philosophy for a Benevolent AI
+## Egalitarianism an Example Philosophy for a Benevolent AI
 
 ### ​Egalitarianism
 
@@ -119,11 +119,14 @@ let's say the loan approval model is less likely to approve loans for people in 
 The Egalitarian-AI could also use the data from these three models to perform [ensemble learning](https://www.google.com/search?q=ensemble+learning+in+computer+science&oq=ensemble+learning+in+computer+science&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHjIICAoQABgWGB4yCAgLEAAYFhgeMggIDBAAGBYYHjIICA0QABgWGB4yCAgOEAAYFhge0gEJMjE4NjlqMGo0qAIOsAIB8QW_RZ0sa6bcKg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
 It would identify relationships between the models data cleaning, exploring, and modeling. It would then perform comparative analyse of the three models [model training, and evaluation](https://www.google.com/search?q=model+training+and+evaluation&oq=model+training+and+evaluation&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgFGB4yCAgDEAAYBRgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBgeMggIChAAGAgYHjIICAsQABgIGB7SAQkxOTc5NmowajeoAg-wAgHxBVW1XJkouRqp8QVVtVyZKLkaqQ&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8). It could identify models structural relationships and where one model could be improved structurally in relationship to another or others, or how many models could be improved in relation to one. 
 
-**The Systems Macro Perspective:<br> 
-Past results should not define future decisions**<br>
-If data truthfully reflects that Black people, on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that caused this disparity. 
+**The Systems Macro Perspective:**
 
-An AI model trained on this data will learn this pattern and, as a result, will likely continue to deny loans or charge higher interest rates to Black applicants, even if they are individually creditworthy.
+**Past results should not define future decisions**
+
+**Correcting systematic bias for ethnic discrimination**
+If data truthfully reflects that Black people or Native Indians or other ethnic group on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that caused this disparity. 
+
+An AI model trained on this data will learn this pattern and, as a result, will likely continue to deny loans or charge higher interest rates to these ethnic groups applicants, even if they are individually creditworthy.
 ​The issue is that the credit scoring system, and the data it produces, are deeply intertwined with historical and systemic inequalities.
 
 
