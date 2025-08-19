@@ -22,6 +22,8 @@ Many 19th-century French thinkers both advocates and critics grappled with the s
 
 For a good introduction to egalitarianism, ["What is the Point of Equality?"](Resources/Whats_the_Point_of_Equality_Elizabeth_Anderson.pdf) by Elizabeth Anderson is a clear and accessible overview.
 
+---
+
 ## Foundational Texts
 
 ## A Theory of Justice  
