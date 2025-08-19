@@ -29,6 +29,10 @@ Arguably the most influential text in modern political philosophy and a cornerst
 
 *Why it's essential*: Rawls's work set the terms of debate for decades, with many researchers building upon or responding directly to his ideas.
 
-**The Social Contract**  
+**The Social Contract** 
 
-[https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses?hl=en-](https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses?hl=en-GB)
+[The Social Contract] (https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses?hl=en-](https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses?hl=en-GB)
+by Jean-Jacques Rousseau.
+
+
+"Man is born free, and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they. How did this change come about? I do not know. What can make it legitimate? That question I think I can answer."
