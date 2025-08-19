@@ -22,5 +22,5 @@ This is arguably the most important text in modern political philosophy and a co
 **Why it's essential:** Rawls's work set the terms of the debate for decades. Researchers either built upon his ideas or developed their own theories in direct response to his work.
 
 ## The Social Contract
-[The Social Contract] () https://www.google.com/search?q=The+Social+Contract&oq=The+Social+Contract&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQLhiABDIHCA0QABiABDIHCA4QABiABNIBCDEzOTRqMGo0qAIOsAIB8QVYomwphtifPg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8#ebo=0
+[The Social Contract](https://www.google.com/search?q=The+Social+Contract&oq=The+Social+Contract&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQLhiABDIHCA0QABiABDIHCA4QABiABNIBCDEzOTRqMGo0qAIOsAIB8QVYomwphtifPg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8#ebo=0)<br>
 By Jean-Jacques Rousseau
