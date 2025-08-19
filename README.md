@@ -2,7 +2,7 @@
 ## Abstract<br>
 The development of a benevolent AI is an essential endeavour for humanity. This immense task is coupled by two important questions. 
 
-1.How to decide on what is benevolent for humanity? What is ethical, moral and just for all? How to make the world a better place?
+1.How to decide on what is benevolent for humanity: what is ethical, moral and just for all: how to make the world a better place?
 
 2.How to define these decisions into metrics for computation in AI?
 
