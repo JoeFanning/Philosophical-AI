@@ -52,7 +52,7 @@ This declaration, developed through a collaborative, public process, outlines pr
 
 Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
 
-For a good introduction to egalitarianism, you might want to start with ["What is the Point of Equality?"](Resources/Whats_the_Point_of_Equality_Elizabeth_Anderson.pdf) by Elizabeth Anderson. It's a clear and accessible overview of the topic.
+For a good introduction to egalitarianism, ["What is the Point of Equality?"](Resources/Whats_the_Point_of_Equality_Elizabeth_Anderson.pdf) by Elizabeth Anderson is a clear and accessible overview.
 
 
 ## Egalitarian AI 
