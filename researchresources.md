@@ -13,7 +13,8 @@ In his famous work "Democracy in America," Tocqueville frequently discusses the 
 Essentially, you would find the word in the works of 19th-century French thinkers who were either advocating for or critically analyzing the social and political movements that sought to create a more equal society.  
 
 ## A Theory of Justice  
-[A Theory for Justice] (https://books.google.nl/books/about/A_Theory_of_Justice.html?id=kvpby7HtAe0C&redir_esc=y) 
+[A Theory for Justice](https://books.google.nl/books/about/A_Theory_of_Justice.html?id=kvpby7HtAe0C&redir_esc=y) 
+
 By John Rawls
 (b. 1921, d. 2002) an American political philosopher in the liberal tradition. 
 
