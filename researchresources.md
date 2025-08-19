@@ -29,16 +29,3 @@ By Jean-Jacques Rousseau (28 June 1712 – 2 July 1778), a Genevan philosopher, 
 
 ​Essentially, you would find the word in the works of 19th-century French thinkers who were either advocating for or critically analyzing the social and political movements that sought to create a more equal society in the wake of the French Revolution.
 
-## A Theory of Justice 
-by John Rawls: 
-
-This is arguably the most important text in modern political philosophy and a cornerstone of liberal egalitarianism. Rawls proposes a theory of "justice as fairness," arguing for two principles:
-
-- **Liberty principle:** Guarantees equal basic liberties for all.
-- **Difference principle:** States that social and economic inequalities are only justified if they are to the greatest benefit of the least advantaged members of society.  
-
-**Why it's essential:** Rawls's work set the terms of the debate for decades. Researchers either built upon his ideas or developed their own theories in direct response to his work.
-
-## The Social Contract
-[The Social Contract](https://www.google.com/search?q=The+Social+Contract&oq=The+Social+Contract&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQLhiABDIHCA0QABiABDIHCA4QABiABNIBCDEzOTRqMGo0qAIOsAIB8QVYomwphtifPg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8#ebo=0)<br>
-By Jean-Jacques Rousseau<br> (28 June 1712 – 2 July 1778) was a Genevan philosopher (philosophe), writer, and composer. His political philosophy influenced the progress of the Age of Enlightenment throughout Europe, as well as aspects of the French Revolution and the development of modern political, economic, and educational thought.
