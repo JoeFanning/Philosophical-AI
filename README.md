@@ -63,17 +63,17 @@ It's not just a set of rules for a model to adhere too, but a framework designed
 
 ## Technical Development and Deployment 
 
-### Defining a System implementation for Egalitarian-AI 
+### Defining a System implementation for Egalitarian AI 
 
-In machine learning an egalitarian model would operate at a higher level of abstraction than an ethical model.
-All the models of the AI system would be processed individually by the Ethical AI. Then all these processed models would be collectively analysed and processed by the Egalitarian-AI. 
+In machine learning an Egalitarian AI would operate at a higher level of abstraction than an ethical machine models.
+All the ethical machine models would be processed individually. Then all these processed models would be collectively analysed and processed by the Egalitarian AI. 
 
 It would also self adapt it's structure and functionality based on dynamic information from its own data and from external data.
-It could use self adaption like what is implemented in
+It could use self adaption algorithms like what is implemented in
 adaptive machine learning models:
 [Resources: Improving Efficiency through Dynamic Model Adjustment. ](Resources/Adaptive_Machine_Learning_Algorithms1.pdf) Adaptive machine learning models adjust their parameters and structure as they are exposed to new data, allowing them to handle changing information or environments.
 Instead of only
-improving efficiency through dynamic model adjustment Egalitarian-AI would also improve efficiency through dynamic framework and system adjustment. 
+improving efficiency through dynamic model adjustment Egalitarian AI would also improve efficiency through dynamic framework and system adjustment. 
 Structure and operation(underlying structure and its functional components) could be adapted and improved in real time giving the system the possibility of exponential improvement. 
 
 #### Stage 1: The Ethical AI Layer (Individual Model Processing)
