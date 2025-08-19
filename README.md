@@ -96,7 +96,7 @@ The layer would produce a detailed explainability report for each model using te
 
 #### Stage 2: The Egalitarian AI Layer (Collective Analysis)
 
-​This is the "global" or "macro" level of analysis. The Egalitarian-AI layer operates at a higher level of abstraction, taking the ethically-vetted models and analyzing their collective impact on the system and society as a whole.
+​This is the "global" or "macro" level of analysis, functionality and deployment. It will result in the collective change the system has on society as a whole.
 
 Even though past results do not determine future events. 
 It must identify where past results have changed society and reimplement the positive ones and retract the negative ones. 
