@@ -20,19 +20,22 @@ Many 19th-century French thinkers—both advocates and critics—grappled with t
 
 ## Foundational Texts
 
-**A Theory of Justice**  
-*By John Rawls*  
-Arguably the most influential text in modern political philosophy and a cornerstone of liberal egalitarianism. Rawls introduces "justice as fairness," grounded in two key principles:
+## A Theory of Justice  
+[A Theory for Justice](https://books.google.nl/books/about/A_Theory_of_Justice.html?id=kvpby7HtAe0C&redir_esc=y) 
 
-- **Liberty Principle**: Guarantees equal basic liberties for all.
-- **Difference Principle**: Permits social and economic inequalities only if they benefit the least advantaged members of society.
+By John Rawls
+(b. 1921, d. 2002) an American political philosopher in the liberal tradition. 
 
-*Why it's essential*: Rawls's work set the terms of debate for decades, with many researchers building upon or responding directly to his ideas.
+This book is arguably the most important text in modern political philosophy and a cornerstone of liberal egalitarianism. Rawls proposes a theory of "justice as fairness," arguing for two principles:
 
-**The Social Contract** 
+- **Liberty principle:** Guarantees equal basic liberties for all.
+- **Difference principle:** States that social and economic inequalities are only justified if they are to the greatest benefit of the least advantaged members of society.
 
-[The Social Contract] (https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses?hl=en-](https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses?hl=en-GB)
-by Jean-Jacques Rousseau.
+**Why it's essential:** Rawls's work set the terms of the debate for decades. Researchers either built upon his ideas or developed their own theories in direct response to his work.
 
+## The Social Contract
+
+[The Social Contract](https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses?hl=en-GB)  
+By Jean-Jacques Rousseau (28 June 1712 – 2 July 1778), a Genevan philosopher, writer, and composer. His political philosophy influenced the progress of the Age of Enlightenment and the French Revolution.  
 
 "Man is born free, and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they. How did this change come about? I do not know. What can make it legitimate? That question I think I can answer."
