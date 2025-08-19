@@ -37,6 +37,7 @@ Companies like:<br>
 have developed toolkits: "fairness toolkits" or "bias mitigation toolkits" which implement ethical governance over AI models.
 
 [**AInow**](https://ainowinstitute.org) 
+
 AI Now develops policy strategies to redirect away from the current trajectory: unbridled commercial surveillance, consolidation of power in very few companies, and a lack of public accountability.
 
 [​**DILEMA Project (Designing International Law and Ethics into Military AI)**](https://www.asser.nl/DILEMA?hl=en-gb) 
