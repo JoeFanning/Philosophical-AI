@@ -3,18 +3,14 @@
 **Liberté, égalité, fraternité**
 
 French for 'liberty, equality, fraternity', this is the national motto of France and the Republic of Haiti, and is an example of a tripartite motto. Although it finds its origins in the French Revolution, it was only one motto among others and was not institutionalized until the Third Republic at the end of the 19th century. Debates concerning its meaning and implementation continue to this day.  
-[...content omitted...]
 
 **Pierre Leroux:**  
 A French philosopher and political economist, Leroux is often credited with popularizing the term in the 19th century. His works on socialism and human progress are a key place to find discussions of egalitarian ideas.  
-[...content omitted...]
 
 **Alexis de Tocqueville:**  
 In his famous work "Democracy in America," Tocqueville frequently discusses the rise of equality as a societal force. He is known to have used the term "égalitarisme" to describe these trends.  
-[...content omitted...]
 
 Essentially, you would find the word in the works of 19th-century French thinkers who were either advocating for or critically analyzing the social and political movements that sought to create a more equal society.  
-[...content omitted...]
 
 ## A Theory of Justice  
 by John Rawls
@@ -30,7 +26,6 @@ This is arguably the most important text in modern political philosophy and a co
 
 [The Social Contract](https://en.wikipedia.org/wiki/The_Social_Contract)  
 By Jean-Jacques Rousseau (28 June 1712 – 2 July 1778), a Genevan philosopher, writer, and composer. His political philosophy influenced the progress of the Age of Enlightenment throughout Europe.  
-[...content omitted...]
 
 ​Essentially, you would find the word in the works of 19th-century French thinkers who were either advocating for or critically analyzing the social and political movements that sought to create a more equal society in the wake of the French Revolution.
 
