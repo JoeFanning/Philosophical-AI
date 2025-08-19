@@ -27,3 +27,5 @@ This is arguably the most important text in modern political philosophy and a co
 [The Social Contract](https://en.wikipedia.org/wiki/The_Social_Contract)  
 By Jean-Jacques Rousseau (28 June 1712 – 2 July 1778), a Genevan philosopher, writer, and composer. His political philosophy influenced the progress of the Age of Enlightenment throughout Europe.  
 
+"Man is born free, and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they. How did this change come about? I do not know. What can make it legitimate? That question I think I can answer."
+
