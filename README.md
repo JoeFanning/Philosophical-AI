@@ -124,7 +124,7 @@ It would identify relationships between the models data cleaning, exploring, and
 **Past results should not define future decisions**
 
 **Correcting systematic bias for ethnic discrimination**
-If data truthfully reflects that Black people or Native Indians or other ethnic group on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that caused this disparity. 
+If data truthfully reflects that Black people or Native Indians or other ethnic groups on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that caused this disparity. 
 
 An AI model trained on this data will learn this pattern and, as a result, will likely continue to deny loans or charge higher interest rates to these ethnic groups applicants, even if they are individually creditworthy.
 ​The issue is that the credit scoring system, and the data it produces, are deeply intertwined with historical and systemic inequalities.
