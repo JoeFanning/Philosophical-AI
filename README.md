@@ -48,8 +48,11 @@ This declaration, developed through a collaborative, public process, outlines pr
 
 ### ​Egalitarianism
 
-Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
 ​The word ["egalitarianism"](https://joefanning.github.io/Egalitarian-AI/researchresources.md)comes from the French word "égal," which means "equal" or "level." It emerged during the French Revolution in the late 18th century when people were fighting for a society where everyone had the same rights and opportunities, no matter their background.
+
+Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
+For a good introduction to egalitarianism, you might want to start with ["What is the Point of Equality?"]() by Elizabeth Anderson. It's a clear and accessible overview of the topic.
+
 
 ## Egalitarian AI 
 Egalitarian AI derives it's name from egalitarianism. Egalitarian AI would be considered an encompassing higher order for [Ethical AI](https://www.google.com/search?q=what+is+ethical+ai&oq=what+is+ethical+Ai&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgATSAQk3NDUyajBqMjmoAgCwAgE&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) .
