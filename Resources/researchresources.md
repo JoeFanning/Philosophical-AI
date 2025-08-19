@@ -14,7 +14,7 @@ A French philosopher and political economist, Leroux is often credited with popu
 **Alexis de Tocqueville**  
 In "Democracy in America," Tocqueville discusses the rise of equality as a societal force and uses the term "égalitarisme" to describe emerging trends in social and political life. His observations provide valuable insights into the development of egalitarian thought.
 
-Many 19th-century French thinkers—both advocates and critics—grappled with the social and political movements aimed at achieving greater equality. Their writings remain foundational for contemporary egalitarian theory.
+Many 19th-century French thinkers both advocates and critics grappled with the social and political movements aimed at achieving greater equality. Their writings remain foundational for contemporary egalitarian theory.
 
 ---
 
