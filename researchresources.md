@@ -23,4 +23,4 @@ This is arguably the most important text in modern political philosophy and a co
 
 ## The Social Contract
 [The Social Contract](https://www.google.com/search?q=The+Social+Contract&oq=The+Social+Contract&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQLhiABDIHCA0QABiABDIHCA4QABiABNIBCDEzOTRqMGo0qAIOsAIB8QVYomwphtifPg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8#ebo=0)<br>
-By Jean-Jacques Rousseau
+By Jean-Jacques Rousseau<br> (28 June 1712 – 2 July 1778) was a Genevan philosopher (philosophe), writer, and composer. His political philosophy influenced the progress of the Age of Enlightenment throughout Europe, as well as aspects of the French Revolution and the development of modern political, economic, and educational thought.
