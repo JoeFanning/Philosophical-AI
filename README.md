@@ -36,7 +36,7 @@ Companies like:<br>
 [Google (What-If Tool)](https://research.google/pubs/the-what-if-tool-interactive-probing-of-machine-learning-models/)<br> 
 have developed toolkits: "fairness toolkits" or "bias mitigation toolkits" which implement ethical governance over AI models.
 
-[**AInow**](https://ainowinstitute.org) 
+[**AINOW**](https://ainowinstitute.org) 
 
 AI Now develops policy strategies to redirect away from the current trajectory: unbridled commercial surveillance, consolidation of power in very few companies, and a lack of public accountability.
 
