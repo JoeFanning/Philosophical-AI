@@ -1,4 +1,4 @@
-# Egalitarian-AI 
+# Philosophical AI
 ## Abstract<br>
 The development of a benevolent AI is an essential endeavour for humanity. This immense task is coupled by two important questions. 
 
