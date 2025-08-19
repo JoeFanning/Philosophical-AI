@@ -30,4 +30,5 @@ Arguably the most influential text in modern political philosophy and a cornerst
 *Why it's essential*: Rawls's work set the terms of debate for decades, with many researchers building upon or responding directly to his ideas.
 
 **The Social Contract**  
-*
+
+[https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses?hl=en-](https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses?hl=en-GB)
