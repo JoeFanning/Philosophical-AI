@@ -13,9 +13,11 @@ In his famous work "Democracy in America," Tocqueville frequently discusses the 
 Essentially, you would find the word in the works of 19th-century French thinkers who were either advocating for or critically analyzing the social and political movements that sought to create a more equal society.  
 
 ## A Theory of Justice  
-by John Rawls
+[A Theory for Justice] (https://books.google.nl/books/about/A_Theory_of_Justice.html?id=kvpby7HtAe0C&redir_esc=y) 
+By John Rawls
+(b. 1921, d. 2002) an American political philosopher in the liberal tradition. 
 
-This is arguably the most important text in modern political philosophy and a cornerstone of liberal egalitarianism. Rawls proposes a theory of "justice as fairness," arguing for two principles:
+This book is arguably the most important text in modern political philosophy and a cornerstone of liberal egalitarianism. Rawls proposes a theory of "justice as fairness," arguing for two principles:
 
 - **Liberty principle:** Guarantees equal basic liberties for all.
 - **Difference principle:** States that social and economic inequalities are only justified if they are to the greatest benefit of the least advantaged members of society.
