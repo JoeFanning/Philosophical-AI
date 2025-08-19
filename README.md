@@ -167,3 +167,178 @@ Joe Fanning Den Haag Centrum Aug 2025
 Resourses to read:
 An Intersectional Definition of Fairness:<br>
 https://ui.adsabs.harvard.edu/abs/2018arXiv180708362F/abstract
+
+
+
+
+
+# Philosophical AI 
+## Abstract<br>
+The development of a benevolent AI is an essential endeavour for humanity. This immense task is coupled by two important questions. 
+
+1.How to decide on what is benevolent for humanity: what is ethical, moral and just for all: how to make the world a better place?
+
+2.How to define these decisions into metrics for computation in AI?
+
+These are not questions that just have to be asked. They are questions that must be answer. The question is can we answer these questions for AI so it can answer these questions itself? 
+
+## ​Global and Intergovernmental Frameworks
+
+At the time of this writing a wide array of frameworks exist to address the complex ethical and justice challenges of dynamic AI systems. While many of them share similar core principles, they often f[...]
+
+​These frameworks aim to provide a broad set of principles for nations and international organizations to follow.
+
+[**​UNESCO Recommendation on the Ethics of Artificial Intelligence**](https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence) 
+
+This is the first global standard-setting instrument on AI ethics, adopted by 193 member states. It outlines core values and principles, including proportionality, safety, fairness, and human oversigh[...]
+
+​[**The EU AI Act**](https://artificialintelligenceact.eu/) 
+
+This is a risk-based legal framework that regulates the development and deployment of AI in the European Union. It categorizes AI systems based on their potential to cause harm and imposes stricter re[...]
+
+[**OECD AI Principles**](https://www.oecd.org/en/topics/sub-issues/ai-principles.html) 
+
+These principles, adopted by 42 countries, provide a set of recommendations for policymakers to promote human-centered and trustworthy AI that respects human rights and democratic values.
+
+### ​Academic and Industry Frameworks**
+
+​These frameworks are often developed by researchers, non-profits, or technology companies to guide their own practices or to propose new models for governance.
+
+Companies like:<br>
+[IBM (AIF360)](https://research.ibm.com/blog/ai-fairness-360),<br>
+[Microsoft (Fairlearn)](https://fairlearn.org/v0.12/about/index.html),<br>
+[Google (What-If Tool)](https://research.google/pubs/the-what-if-tool-interactive-probing-of-machine-learning-models/)<br> 
+have developed toolkits: "fairness toolkits" or "bias mitigation toolkits" which implement ethical governance over AI models.
+
+[**AINOW**](https://ainowinstitute.org) 
+
+AI Now develops policy strategies to redirect away from the current trajectory: unbridled commercial surveillance, consolidation of power in very few companies, and a lack of public accountability.
+
+[​**DILEMA Project (Designing International Law and Ethics into Military AI)**](https://www.asser.nl/DILEMA?hl=en-gb) 
+
+This project focuses specifically on the ethical and legal challenges of AI in military applications. It aims to ensure that human agency is maintained over military AI systems and that they comply wi[...]
+
+​[**The Montreal Declaration for Responsible AI**](https://montrealdeclaration-responsibleai.com/) 
+
+This declaration, developed through a collaborative, public process, outlines principles for the ethical development and deployment of AI, with a strong emphasis on well-being, social justice, and dem[...]
+
+## Egalitarianism a Philosophy for a Benevolent AI
+
+### ​Egalitarianism
+
+​The word "eglatarianism" [(Research resources on Egalitarianism) ](Resources/researchresources.md) originates from the French word "égal," which means "equal" or "level." It emerged during the Fre[...]
+
+Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of[...]
+
+
+## Philosophical AI 
+Philosophical AI derives it's name from egalitarianism. Philosophical AI would be considered an encompassing higher order for [Ethical AI](https://www.google.com/search?q=what+is+ethical+ai&oq=what+is+eth[...]
+It's not just a set of rules for a model to adhere too, but a framework designed on a philosophy that guides the design and purpose of the entire AI system and its integration into society. It asks, "[...]
+
+## Technical Development and Deployment 
+
+### Defining a System implementation for Philosophical AI 
+
+In machine learning an egalitarian model would operate at a higher level of abstraction than an ethical model.
+All the models of the AI system would be processed individually by the Ethical AI. Then all these processed models would be collectively analysed and processed by the Philosophical AI. 
+
+It would also self adapt it's structure and functionality based on dynamic information from its own data and from external data.
+It could use self adaption like what is implemented in
+adaptive machine learning models:
+[Resources: Improving Efficiency through Dynamic Model Adjustment. ](Resources/Adaptive_Machine_Learning_Algorithms1.pdf) Adaptive machine learning models adjust their parameters and structure as they[...]
+Instead of only
+improving efficiency through dynamic model adjustment Philosophical AI would also improve efficiency through dynamic framework and system adjustment. 
+Structure and operation(underlying structure and its functional components) could be adapted and improved in real time giving the system the possibility of exponential improvement. 
+
+#### Stage 1: The Ethical AI Layer (Individual Model Processing)
+
+​This is the "local" or "micro" level of analysis. In this stage, each individual machine learning model or component within the larger AI system would be rigorously audited to ensure it meets a set[...]
+​Technically, this would involve a suite of automated tools and metrics applied to each model:
+​Bias Detection and Fairness Audits: Before a model is deployed, an Ethical AI layer would run a series of fairness tests. It would use metrics for example like [Disparate Impact, Equal Opportunity [...]
+[IBM AI Fairness 360 (AIF360) toolkit](https://research.ibm.com/blog/ai-fairness-360).<br>
+IBM AI Fairness 360 (AIF360) on [Github](https://github.com/Trusted-AI/AIF360)
+
+
+**​Explainability (XAI)** 
+
+The layer would produce a detailed explainability report for each model using techniques like SHAP (SHapley Additive exPlanations) or LIME (Local Interpretable Model-agnostic Explanations). This would[...]
+
+**Security**
+
+​Privacy and Robustness Checks: Automated scans would check for vulnerabilities like data leakage or susceptibility to adversarial attacks. The goal is to ensure the model is secure and protects use[...]
+​This stage ensures that every single component of the AI system is "ethically sound" on its own, like checking that every individual part of a car is working correctly before assembly.
+
+#### Stage 2: The Philosophical AI Layer (Collective Analysis)
+
+​This is the "global" or "macro" level of analysis. The Philosophical AI layer operates at a higher level of abstraction, taking the ethically-vetted models and analyzing their collective impact on th[...]
+
+Even though past results do not determine future events. 
+It must identify where past results have changed society and reimplement the positive ones and retract the negative ones. 
+
+For example:<br>
+[Intersectionality](https://researchguides.library.syr.edu/fys101/intersectionality) 
+<br>
+While Ethical AI can help reduce explicit biases related to single attributes (like race or gender), addressing intersectional bias—where multiple, overlapping identities create unique and compounde[...]
+Research has already been done in this area:<br>
+[An Intersectional Definition of Fairness](https://ui.adsabs.harvard.edu/abs/2018arXiv180708362F/abstract) 
+
+One of Philosophical AI's functions would be to identify these compounded forms of discrimination.
+
+A theoretical real world example:
+Three ethically processed models:
+A loan approval model, a job application approval rating model and a car insurance quote estimation model.
+let's say the loan approval model is less likely to approve loans for people in certain neighborhoods, the job application model favors candidates with addresses in wealthier areas, and the car insura[...]
+
+**Calibrating the structure of the system**<br>
+The Philosophical AI could also use the data from these three models to perform [ensemble learning](https://www.google.com/search?q=ensemble+learning+in+computer+science&oq=ensemble+learning+in+computer[...]
+It would identify relationships between the models data cleaning, exploring, and modeling. It would then perform comparative analyse of the three models [model training, and evaluation](https://www.go[...]
+
+**The Systems Macro Perspective:<br> 
+Past results should not define future decisions**<br>
+If data truthfully reflects that Black people, on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that c[...]
+
+An AI model trained on this data will learn this pattern and, as a result, will likely continue to deny loans or charge higher interest rates to Black applicants, even if they are individually creditw[...]
+​The issue is that the credit scoring system, and the data it produces, are deeply intertwined with historical and systemic inequalities.
+
+
+​**The Roots of the Disparity**<br>
+​Redlining: For decades, the Federal Housing Administration and other institutions used a practice called "redlining" to refuse to guarantee home loans in Black communities. This deprived Black fami[...]
+​Income and Wealth Gaps: Due to historical and ongoing discrimination in employment and housing, Black households have significantly lower median income and wealth than white households. This makes [...]
+​Credit "Invisibility": <br>
+Many people in historically marginalized communities are "credit invisible," meaning they don't have enough credit history to generate a score. They may pay their bills on time (rent, utilities, etc.)[...]
+​The Unfairness<br>
+​The unfairness isn't that the AI is "lying" about the data. The unfairness is that the data itself is a reflection of a system that has historically disadvantaged a group of people. If an AI model [...]
+​The goal of creating "fair" AI isn't to pretend that these disparities don't exist. It's to build a system that can look beyond the raw, biased data and make decisions based on an individual's true[...]
+
+**​Systemic Feedback Loop Analysis**
+
+The Philosophical AI would monitor its real-world deployments. Successful deployments would be replicated, and the data they generate would be integrated to optimize or scale solutions for equivalent or[...]
+
+The structural functionality should adapt and improve depending on successfull metrics and the successful metrics should adapt and improve depending on tbe successfull structural functionality. 
+
+​**External Data Integration and Impact Measurement**
+
+This is a key differentiator. The Philosophical AI would not just use internal data but would also integrate with external, real-world data streams (e.g., census data, public health records, economic in[...]
+
+​**Resource and Opportunity Allocation** 
+
+If the AI system is a suite of services, the Philosophical AI would ensure the distribution of these services is equitable. It might actively shift resources or prioritize service access for historicall[...]
+
+​**Macro-Level Optimization** 
+
+The Philosophical AI's objective function would not be a simple metric like accuracy or fairness score, but a complex, multi-variable function that seeks to maximize social equality. It might recommend [...]
+​Analogy: A City's Infrastructure
+​This two-tiered technical structure can be likened to the way a city's infrastructure is planned and maintained:
+​Ethical AI: An ethical approach would be like a building inspector. They would ensure that each individual building (an AI model) is constructed to code, is safe, and has proper access for people w[...]
+​Philosophical AI: An egalitarian approach would be like the city planner. They would look at all the buildings together and ask: "Are we building a city where everyone has equal access to housing, jo[...]
+
+​Technically the Philosophical AI will dynamically enhance it's own functionality based on metrics constructed from a philosophy called Egalitarianism. Not on a functionality using metrics purely base[...]
+
+​Philosophical AI is a benevolent AI to promote and establish local ethics and global justice.
+
+Joe Fanning Den Haag Centrum Aug 2025
+
+Resourses to read:
+An Intersectional Definition of Fairness:<br>
+https://ui.adsabs.harvard.edu/abs/2018arXiv180708362F/abstract
+
