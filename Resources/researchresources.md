@@ -21,7 +21,7 @@ Many 19th-century French thinkers both advocates and critics grappled with the s
 ## Foundational Texts
 
 ## A Theory of Justice  
-[A Theory for Justice](https://books.google.nl/books/about/A_Theory_of_Justice.html?id=kvpby7HtAe0C&redir_esc=y](https://books.google.nl/books/about/A_Theory_of_Justice.html?id=kvpby7HtAe0C&redir_esc=y)=en) 
+[A Theory for Justice](https://books.google.nl/books/about/A_Theory_of_Justice.html?id=kvpby7HtAe0C&redir_esc=y](https://books.google.nl/books/about/A_Theory_of_Justice.html?id=kvpby7HtAe0C&redir_esc=y)&hl=en) 
 
 By John Rawls
 (b. 1921, d. 2002) an American political philosopher in the liberal tradition. 
