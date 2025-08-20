@@ -57,7 +57,7 @@ This declaration, developed through a collaborative, public process, outlines pr
 Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
 
 
-## Egalitarian AI 
+# Egalitarian AI 
 Egalitarian AI derives it's name from egalitarianism. Egalitarian AI would be considered an encompassing higher order for [Ethical AI](https://www.google.com/search?q=what+is+ethical+ai&oq=what+is+ethical+Ai&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgATSAQk3NDUyajBqMjmoAgCwAgE&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) .
 It's not just a set of rules for a model to adhere too, but a framework designed on a philosophy, that guides the design and purpose of the system and its integration into society. It asks, "Does this system contribute to a more equal and just society? Is it helping to dismantle systemic inequalities?". 
 
@@ -100,7 +100,7 @@ The layer would produce a detailed explainability report for each model using te
 Even though past results do not determine future events. 
 It must identify where past results have changed society and reimplement the positive ones and retract the negative ones. 
 
-## Compounded forms of discrimination 
+##### Compounded forms of discrimination 
 
 For example:<br>
 [Intersectionality](https://researchguides.library.syr.edu/fys101/intersectionality) 
@@ -116,16 +116,17 @@ Three ethically processed models:
 A loan approval model, a job application approval rating model and a car insurance quote estimation model.
 let's say the loan approval model is less likely to approve loans for people in certain neighborhoods, the job application model favors candidates with addresses in wealthier areas, and the car insurance model gives higher rates to people living in specific zip codes. Even if each model seems fair on its own, when you look at them together, you might find that people from lower-income neighborhoods are consistently facing disadvantages across the board.
 
-**Calibrating the structure and functionality of the system in relation to the collectively processed ethical models**
+##### Calibrating the structure and functionality of the system in relation to the collectively processed ethical models**
 
 The Egalitarian-AI would also use the data from these three models to perform [ensemble learning](https://www.google.com/search?q=ensemble+learning+in+computer+science&oq=ensemble+learning+in+computer+science&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHjIICAoQABgWGB4yCAgLEAAYFhgeMggIDBAAGBYYHjIICA0QABgWGB4yCAgOEAAYFhge0gEJMjE4NjlqMGo0qAIOsAIB8QW_RZ0sa6bcKg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
 It would identify relationships between the models data cleaning, exploring, and modeling. It would then perform comparative analyse of the three models [model training, and evaluation](https://www.google.com/search?q=model+training+and+evaluation&oq=model+training+and+evaluation&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgFGB4yCAgDEAAYBRgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBgeMggIChAAGAgYHjIICAsQABgIGB7SAQkxOTc5NmowajeoAg-wAgHxBVW1XJkouRqp8QVVtVyZKLkaqQ&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8). It could identify models structural relationships and where one model could be improved structurally in relationship to another or others, or how many models could be improved in relation to one. 
 
-## Innovative Progression of Social Equality :**
+##### Innovative Progression of Social Equality**
 
-**Past results should not define future decisions**
+**"past performance is not indicative of future results" and "historical data is not a guarantee of future outcomes."**
 
-**Correcting systematic bias of ethnic discrimination**
+###### Correcting systematic bias of ethnic discrimination**
+
 If data truthfully reflects that Black people or Native Indians or other ethnic groups on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that caused this disparity. 
 
 An AI model trained on this data will learn this pattern and, as a result, will likely continue to deny loans or charge higher interest rates to these ethnic groups applicants, even if they are individually creditworthy.
