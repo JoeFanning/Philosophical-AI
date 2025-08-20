@@ -121,11 +121,13 @@ let's say the loan approval model is less likely to approve loans for people in 
 The Egalitarian-AI would also use the data from these three models to perform [ensemble learning](https://www.google.com/search?q=ensemble+learning+in+computer+science&oq=ensemble+learning+in+computer+science&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHjIICAoQABgWGB4yCAgLEAAYFhgeMggIDBAAGBYYHjIICA0QABgWGB4yCAgOEAAYFhge0gEJMjE4NjlqMGo0qAIOsAIB8QW_RZ0sa6bcKg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
 It would identify relationships between the models data cleaning, exploring, and modeling. It would then perform comparative analyse of the three models [model training, and evaluation](https://www.google.com/search?q=model+training+and+evaluation&oq=model+training+and+evaluation&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgFGB4yCAgDEAAYBRgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBgeMggIChAAGAgYHjIICAsQABgIGB7SAQkxOTc5NmowajeoAg-wAgHxBVW1XJkouRqp8QVVtVyZKLkaqQ&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8). It could identify models structural relationships and where one model could be improved structurally in relationship to another or others, or how many models could be improved in relation to one. 
 
-##### Innovative Progression of Social Equality**
+##### Innovative Progression of Social Equality
 
-**"past performance is not indicative of future results" and "historical data is not a guarantee of future outcomes."**
+**"past performance is not indicative of future results
+and 
+historical data is not a guarantee of future outcomes.**
 
-###### Correcting systematic bias of ethnic discrimination**
+##### Correcting systematic bias of ethnic discrimination
 
 If data truthfully reflects that Black people or Native Indians or other ethnic groups on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that caused this disparity. 
 
@@ -151,10 +153,6 @@ The structural functionality should adapt and improve depending on successfull m
 ​**External Data Integration and Impact Measurement**
 
 This is a key differentiator. The Egalitarian-AI would not just use internal data but would also integrate with external, real-world data streams (e.g., census data, public health records, economic indicators). It would then analyze the system's overall impact. For example, "Is the deployment of our educational AI system actually narrowing the academic achievement gap, or is it only benefiting students in well-resourced schools?"
-
-​**Resource and Opportunity Allocation** 
-
-If the AI system is a suite of services, the Egalitarian-AI would ensure the distribution of these services is equitable. It might actively shift resources or prioritize service access for historically underserved communities to correct for systemic imbalances.
 
 ​**Macro-Level Optimization** 
 
