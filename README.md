@@ -26,7 +26,7 @@ This is a risk-based legal framework that regulates the development and deployme
 
 These principles, adopted by 42 countries, provide a set of recommendations for policymakers to promote human-centered and trustworthy AI that respects human rights and democratic values.
 
-### ​Academic and Industry Frameworks**
+### ​Academic and Industry Frameworks
 
 ​These frameworks are often developed by researchers, non-profits, or technology companies to guide their own practices or to propose new models for governance.
 
@@ -93,7 +93,7 @@ The layer would produce a detailed explainability report for each model using te
 ​Privacy and Robustness Checks: Automated scans would check for vulnerabilities like data leakage or susceptibility to adversarial attacks. The goal is to ensure the model is secure and protects user data. 
 ​This stage ensures that every single component of the AI system is "ethically sound" on its own, like checking that every individual part of a car is working correctly before assembly.
 
-#### Stage 2: The Egalitarian AI Layer (Collective Analysis)
+#### Stage 2: The Egalitarian AI Layer (Collective processing)
 
 ​This is the "global" or "macro" level of analysis, functionality and deployment. It will result in the collective change the system has on society as a whole.
 
@@ -109,7 +109,7 @@ While Ethical AI can help reduce explicit biases related to single attributes (l
 Research has already been done in this area:<br>
 [An Intersectional Definition of Fairness](https://ui.adsabs.harvard.edu/abs/2018arXiv180708362F/abstract) 
 
-One of Egalitarian-AI's functions would be to identify these compounded forms of discrimination.
+One of Egalitarian AI's functions would be to identify these compounded forms of discrimination and correct them. 
 
 A theoretical real world example:
 Three ethically processed models:
@@ -118,8 +118,9 @@ let's say the loan approval model is less likely to approve loans for people in 
 
 ##### Calibrating the structure and functionality of the system in relation to the collectively processed ethical models**
 
-The Egalitarian-AI would also use the data from these three models to perform [ensemble learning](https://www.google.com/search?q=ensemble+learning+in+computer+science&oq=ensemble+learning+in+computer+science&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHjIICAoQABgWGB4yCAgLEAAYFhgeMggIDBAAGBYYHjIICA0QABgWGB4yCAgOEAAYFhge0gEJMjE4NjlqMGo0qAIOsAIB8QW_RZ0sa6bcKg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
-It would identify relationships between the models data cleaning, exploring, and modeling. It would then perform comparative analyse of the three models [model training, and evaluation](https://www.google.com/search?q=model+training+and+evaluation&oq=model+training+and+evaluation&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgFGB4yCAgDEAAYBRgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBgeMggIChAAGAgYHjIICAsQABgIGB7SAQkxOTc5NmowajeoAg-wAgHxBVW1XJkouRqp8QVVtVyZKLkaqQ&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8). It could identify models structural relationships and where one model could be improved structurally in relationship to another or others, or how many models could be improved in relation to one. 
+The Egalitarian-AI would use [ensemble learning](https://www.google.com/search?q=ensemble+learning+in+computer+science&oq=ensemble+learning+in+computer+science&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHjIICAoQABgWGB4yCAgLEAAYFhgeMggIDBAAGBYYHjIICA0QABgWGB4yCAgOEAAYFhge0gEJMjE4NjlqMGo0qAIOsAIB8QW_RZ0sa6bcKg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
+It would identify relationships between the models data cleaning, exploring, and modeling. 
+It would then search for relationships bwtwewn the three models [model training, and evaluation](https://www.google.com/search?q=model+training+and+evaluation&oq=model+training+and+evaluation&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgFGB4yCAgDEAAYBRgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBgeMggIChAAGAgYHjIICAsQABgIGB7SAQkxOTc5NmowajeoAg-wAgHxBVW1XJkouRqp8QVVtVyZKLkaqQ&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8). It could identify models structural relationships and where one model could be improved structurally in relationship to another or others, or how many models could be improved in relation to one. 
 
 ##### Innovative Progression of Social Equality
 
