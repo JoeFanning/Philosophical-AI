@@ -76,13 +76,11 @@ Three ethically processed models:
 A loan approval model, a job application approval rating model and a car insurance quote estimation model.
 let's say the loan approval model is less likely to approve loans for people in certain neighborhoods, the job application model favors candidates with addresses in wealthier areas, and the car insurance model gives higher rates to people living in specific zip codes. Even if each model seems fair on its own, when you look at them together, you might find that people from lower-income neighborhoods are consistently facing disadvantages across the board.
 
-##### Innovative Progression of Social Equality
+#### Systemic ethnic discrimination
 
-**"past performance is not indicative of future results
+**"past performance is not indicative of future results" 
 and 
 historical data is not a guarantee of future outcomes.**
-
-##### Correcting systematic bias of ethnic discrimination
 
 If data truthfully reflects that Black people or Native Indians or other ethnic groups on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that caused this disparity. 
 
@@ -91,10 +89,14 @@ An AI model trained on this data will learn this pattern and, as a result, will 
 
 ​**The Roots of the Disparity**<br>
 ​Redlining: For decades, the Federal Housing Administration and other institutions used a practice called "redlining" to refuse to guarantee home loans in Black communities. This deprived Black families of a key way to build wealth and good credit.
-​Income and Wealth Gaps: Due to historical and ongoing discrimination in employment and housing, Black households have significantly lower median income and wealth than white households. This makes it harder to pay bills on time, save money, and maintain a low credit utilization ratio, all of which are key factors in credit scores.<br>
-​Credit "Invisibility": <br>
-Many people in historically marginalized communities are "credit invisible," meaning they don't have enough credit history to generate a score. They may pay their bills on time (rent, utilities, etc.), but that information isn't typically included in traditional credit reports.<br>
-​The Unfairness<br>
+​Income and Wealth Gaps: Due to historical and ongoing discrimination in employment and housing, Black households have significantly lower median income and wealth than white households. This makes it harder to pay bills on time, save money, and maintain a low credit utilization ratio, all of which are key factors in credit scores.
+
+​Credit "Invisibility":
+
+Many people in historically marginalized communities are "credit invisible," meaning they don't have enough credit history to generate a score. They may pay their bills on time (rent, utilities, etc.), but that information isn't typically included in traditional credit reports.
+
+​The Unfairness
+
 ​The unfairness isn't that the AI is "lying" about the data. The unfairness is that the data itself is a reflection of a system that has historically disadvantaged a group of people. If an AI model simply learns to replicate that system, it automates and perpetuates a historical injustice.
 ​The goal of creating "fair" AI isn't to pretend that these disparities don't exist. It's to build a system that can look beyond the raw, biased data and make decisions based on an individual's true creditworthiness, rather than on the systemic disadvantages they face.
 
