@@ -26,7 +26,7 @@ This is a risk-based legal framework that regulates the development and deployme
 
 These principles, adopted by 42 countries, provide a set of recommendations for policymakers to promote human-centered and trustworthy AI that respects human rights and democratic values.
 
-### ​Academic and Industry Frameworks
+## ​Academic and Industry Frameworks
 
 ​These frameworks are often developed by researchers, non-profits, or technology companies to guide their own practices or to propose new models for governance.
 
@@ -57,11 +57,11 @@ This declaration, developed through a collaborative, public process, outlines pr
 Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
 
 
-# Egalitarian AI 
+## Egalitarian AI 
 Egalitarian AI derives it's name from egalitarianism. Egalitarian AI would be considered an encompassing higher order for [Ethical AI](https://www.google.com/search?q=what+is+ethical+ai&oq=what+is+ethical+Ai&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgATSAQk3NDUyajBqMjmoAgCwAgE&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) .
 It's not just a set of rules for a model to adhere too, but a framework designed on a philosophy, that guides the design and purpose of the system and its integration into society. It asks, "Does this system contribute to a more equal and just society? Is it helping to dismantle systemic inequalities?". 
 
-## Compounded forms of discrimination  
+### Compounded forms of discrimination  
 
 [Intersectionality](https://researchguides.library.syr.edu/fys101/intersectionality) 
 
