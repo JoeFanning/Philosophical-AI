@@ -61,6 +61,21 @@ Egalitarianism is a school of thought rooted in the belief that all people are f
 Egalitarian AI derives it's name from egalitarianism. Egalitarian AI would be considered an encompassing higher order for [Ethical AI](https://www.google.com/search?q=what+is+ethical+ai&oq=what+is+ethical+Ai&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgATSAQk3NDUyajBqMjmoAgCwAgE&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) .
 It's not just a set of rules for a model to adhere too, but a framework designed on a philosophy, that guides the design and purpose of the system and its integration into society. It asks, "Does this system contribute to a more equal and just society? Is it helping to dismantle systemic inequalities?". 
 
+## Compounded forms of discrimination  
+
+[Intersectionality](https://researchguides.library.syr.edu/fys101/intersectionality) 
+
+While Ethical AI can help reduce explicit biases related to single attributes (like race or gender), addressing intersectional bias—where multiple, overlapping identities create unique and compounded forms of discrimination—is far more complex. The core issue is that intersectional bias isn't just a simple combination of individual biases; it's often a unique harm that doesn't appear when looking at individual groups separately. 
+Research has already been done in this area:<br>
+[An Intersectional Definition of Fairness](https://ui.adsabs.harvard.edu/abs/2018arXiv180708362F/abstract) 
+
+One of Egalitarian AI's functions would be to identify these compounded forms of discrimination and correct them. 
+
+**A theoretical real world example:**
+Three ethically processed models:
+A loan approval model, a job application approval rating model and a car insurance quote estimation model.
+let's say the loan approval model is less likely to approve loans for people in certain neighborhoods, the job application model favors candidates with addresses in wealthier areas, and the car insurance model gives higher rates to people living in specific zip codes. Even if each model seems fair on its own, when you look at them together, you might find that people from lower-income neighborhoods are consistently facing disadvantages across the board.
+
 ## Technical Development and Deployment 
 
 ### Defining a System implementation for Egalitarian AI 
@@ -99,22 +114,6 @@ The layer would produce a detailed explainability report for each model using te
 
 Even though past results do not determine future events. 
 It must identify where past results have changed society and reimplement the positive ones and retract the negative ones. 
-
-##### Compounded forms of discrimination 
-
-For example:<br>
-[Intersectionality](https://researchguides.library.syr.edu/fys101/intersectionality) 
-<br>
-While Ethical AI can help reduce explicit biases related to single attributes (like race or gender), addressing intersectional bias—where multiple, overlapping identities create unique and compounded forms of discrimination—is far more complex. The core issue is that intersectional bias isn't just a simple combination of individual biases; it's often a unique harm that doesn't appear when looking at individual groups separately. 
-Research has already been done in this area:<br>
-[An Intersectional Definition of Fairness](https://ui.adsabs.harvard.edu/abs/2018arXiv180708362F/abstract) 
-
-One of Egalitarian AI's functions would be to identify these compounded forms of discrimination and correct them. 
-
-A theoretical real world example:
-Three ethically processed models:
-A loan approval model, a job application approval rating model and a car insurance quote estimation model.
-let's say the loan approval model is less likely to approve loans for people in certain neighborhoods, the job application model favors candidates with addresses in wealthier areas, and the car insurance model gives higher rates to people living in specific zip codes. Even if each model seems fair on its own, when you look at them together, you might find that people from lower-income neighborhoods are consistently facing disadvantages across the board.
 
 ##### Calibrating the structure and functionality of the system in relation to the collectively processed ethical models**
 
