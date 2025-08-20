@@ -76,7 +76,7 @@ Three ethically processed models:
 A loan approval model, a job application approval rating model and a car insurance quote estimation model.
 let's say the loan approval model is less likely to approve loans for people in certain neighborhoods, the job application model favors candidates with addresses in wealthier areas, and the car insurance model gives higher rates to people living in specific zip codes. Even if each model seems fair on its own, when you look at them together, you might find that people from lower-income neighborhoods are consistently facing disadvantages across the board.
 
-#### Systemic ethnic discrimination
+### Systemic ethnic discrimination
 
 **"past performance is not indicative of future results" 
 and 
