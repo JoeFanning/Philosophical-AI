@@ -2,9 +2,9 @@
 ## Abstract<br>
 The development of a benevolent AI is an essential endeavour for humanity. This immense task is coupled by two important questions. 
 
-1.How to decide on what is benevolent for humanity: what is ethical, moral and just for all: how to make the world a better place?
+1.How to decide and interpret what is benevolent for humanity: what is ethical, moral and just for all: how to make the world a better place?
 
-2.How to define these decisions into metrics for computation in AI?
+2.How to define these decisions into metrics for machine computation in AI?
 
 These are not questions that just have to be asked. They are questions that must be answer. The question is can we answer these questions for AI so it can answer these questions itself? 
 
@@ -55,6 +55,7 @@ This declaration, developed through a collaborative, public process, outlines pr
 ​The word "eglatarianism" [(Research resources on Egalitarianism) ](Resources/researchresources.md) originates from the French word "égal," which means "equal" or "level." It emerged during the French Revolution in the late 18th century when people were fighting for a society where everyone had the same rights and opportunities, no matter their background.
 
 Egalitarianism is a school of thought rooted in the belief that all people are fundamentally equal and should be treated as such. It is a philosophy that prioritizes social equality and the removal of inequalities, particularly in political, economic, and social life. 
+This could be a philosophy for a Benevolent AI
 
 
 ## Egalitarian AI 
