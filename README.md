@@ -116,6 +116,10 @@ Adaptive Machine Learning:
 Egalitarian AI would also improve efficiency through Adaptive Machine Learning of its framework and system. 
 Structure and operation(underlying structure and its functionality ) could be adapted and improved with adaptive algorithms in real time with internal data and with external ever changing real world data, giving the system the possibility of exponential improvement. 
 
+For example the system could be trained to write it's own functions to it's framework to enhance it's capabilities. 
+
+It could wite it's own algorithms to handle unforeseeable changes. 
+
 #### Stage 1: The Ethical AI Layer (Individual Model Processing)
 
 ​This is the "local" or "micro" level of analysis. In this stage, each individual machine learning model or component within the larger AI system would be rigorously audited to ensure it meets a set of predefined ethical standards. This would be a form of automated quality control for fairness, transparency, and accountability.
