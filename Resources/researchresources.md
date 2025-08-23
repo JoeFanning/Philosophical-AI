@@ -12,7 +12,7 @@ French for "liberty, equality, fraternity," this is the national motto of France
 A French philosopher and political economist, Leroux is often credited with popularizing the term "egalitarianism" in the 19th century. His works on socialism and human progress are key resources for understanding early discussions of equality.
 
 **Alexis de Tocqueville**  
-In "Democracy in America," Tocqueville discusses the rise of equality as a societal force and uses the term "égalitarisme" to describe emerging trends in social and political life. His observations provide valuable insights into the development of egalitarian thought.
+In [Democracy in America] (https://www.amazon.nl/Democracy-America-Complete-Unabridged-Volumes/dp/0553214640/ref=mp_s_a_1_1?crid=2FC3TFIA5HEQV&dib=eyJ2IjoiMSJ9.GEWiUnX1BTMj77gRjWXr0OnpgvtL-6QYVVrm4Wn8NGJbklfMk28XoxUry04qcxOufwuPMagmfTZvQIASVH8fIybQZ0KTxqO7-ucp-Jb88QS-JLNYr85i8umFmwu3BeJJ7CRFywPBZkNKL027xCZbC7pwkrk_AinUD6ZzZmTJ85Ic48Rd_pgFVGReYjuUjHXTxEYkGUtoUBpw0HI37JhKkg.DvYj5wZ5jSceOqHJuwTUSLl6pRNAR1RuywSRIQSt9xU&dib_tag=se&keywords=democracy+in+america&qid=1755947444&sprefix=Democracy+in+Smerica%2Caps%2C127&sr=8-1) ,Tocqueville discusses the rise of equality as a societal force and uses the term "égalitarisme" to describe emerging trends in social and political life. His observations provide valuable insights into the development of egalitarian thought.
 
 Many 19th-century French thinkers both advocates and critics grappled with the social and political movements aimed at achieving greater equality. Their writings remain foundational for contemporary egalitarian theory.
 
