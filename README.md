@@ -118,7 +118,7 @@ Structure and operation(underlying structure and its functionality ) could be ad
 
 For example the system could be trained to write it's own functions to it's framework to enhance it's capabilities. 
 
-It could wite it's own algorithms to implement new functionality and create new environments to process new information. 
+It could write it's own algorithms to implement new functionality and create new environments to process new information. 
 
 #### Stage 1: The Ethical AI Layer (Individual Model Processing)
 
