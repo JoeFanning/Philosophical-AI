@@ -11,6 +11,22 @@ French for "liberty, equality, fraternity," this is the national motto of France
 **Pierre Leroux**  
 A French philosopher and political economist, Leroux is often credited with popularizing the term "egalitarianism" in the 19th century. His works on socialism and human progress are key resources for understanding early discussions of equality.
 
+His major works include:
+
+**​"Individualism and Socialism" (1834):** 
+This essay is notable for introducing the term "socialism" into the French political lexicon.
+
+​**"De l'égalité" (1838):** 
+An article later published as a separate work, this book focuses on the concept of equality.
+
+*f​"Refutation de l'éclectisme" (1839):**
+Like "De l'égalité," this was an article that was later published on its own.
+
+​**"De l'Humanité" (1840):** Considered his major philosophical work and the "manifesto of the Humanitarians," this book provides the fullest exposition of his philosophical system.
+
+​**"L'Encyclopédie nouvelle" (1838-1841):**
+Leroux co-founded and edited this encyclopedia.
+
 **Alexis de Tocqueville**  
 In [Democracy in America](https://www.amazon.nl/Democracy-America-Complete-Unabridged-Volumes/dp/0553214640/ref=mp_s_a_1_1?crid=2FC3TFIA5HEQV&dib=eyJ2IjoiMSJ9.GEWiUnX1BTMj77gRjWXr0OnpgvtL-6QYVVrm4Wn8NGJbklfMk28XoxUry04qcxOufwuPMagmfTZvQIASVH8fIybQZ0KTxqO7-ucp-Jb88QS-JLNYr85i8umFmwu3BeJJ7CRFywPBZkNKL027xCZbC7pwkrk_AinUD6ZzZmTJ85Ic48Rd_pgFVGReYjuUjHXTxEYkGUtoUBpw0HI37JhKkg.DvYj5wZ5jSceOqHJuwTUSLl6pRNAR1RuywSRIQSt9xU&dib_tag=se&keywords=democracy+in+america&qid=1755947444&sprefix=Democracy+in+Smerica%2Caps%2C127&sr=8-1) ,Tocqueville discusses the rise of equality as a societal force and uses the term "égalitarisme" to describe emerging trends in social and political life. His observations provide valuable insights into the development of egalitarian thought.
 
