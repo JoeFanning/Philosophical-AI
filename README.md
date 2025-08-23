@@ -112,7 +112,7 @@ All the ethical machine models would be processed individually. Then all these p
 It would self adapt it's structure and functionality based on dynamic information from its own data and from external data.
 It could use self adaption algorithms like what is implemented in
 adaptive machine learning:
-[Resources: Improving Efficiency through Dynamic Model Adjustment. ](Resources/Adaptive_Machine_Learning_Algorithms1.pdf) Adaptive machine learning models adjust their parameters and structure as they are exposed to new data and [data drift](https://ieeexplore.ieee.org/document/8496795) , allowing them to handle changing information or environments.
+[Resources: Improving Efficiency through Dynamic Model Adjustment. ](Resources/Adaptive_Machine_Learning_Algorithms1.pdf) Adaptive machine learning models adjust their parameters and structure as they are exposed to new data and [data drift]() [concept drift](https://ieeexplore.ieee.org/document/8496795) , allowing them to handle changing information or environments.
 Egalitarian AI would also improve efficiency through adaptive machine learning of its framework and system. 
 Structure and operation(underlying structure and its functional components) could be adapted and improved in real time with internal data and with external ever changing real world data, giving the system the possibility of exponential improvement. 
 
