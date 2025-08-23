@@ -1,5 +1,5 @@
 # Philosophical AI
-**By Joe Fanning 2025 Den Haag**
+**By Joe Fanning August 2025 Den Haag, The Netherlands **
 ## Abstract<br>
 The development of a benevolent AI is an essential endeavour for humanity. This immense task is coupled by two important questions. 
 
