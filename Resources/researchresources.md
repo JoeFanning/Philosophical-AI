@@ -19,7 +19,7 @@ This essay is notable for introducing the term "socialism" into the French polit
 ​**"De l'égalité" (1838):** 
 An article later published as a separate work, this book focuses on the concept of equality.
 
-*f​"Refutation de l'éclectisme" (1839):**
+**"Refutation de l'éclectisme" (1839):**
 Like "De l'égalité," this was an article that was later published on its own.
 
 ​**"De l'Humanité" (1840):** Considered his major philosophical work and the "manifesto of the Humanitarians," this book provides the fullest exposition of his philosophical system.
