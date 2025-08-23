@@ -42,7 +42,7 @@ For a good introduction to egalitarianism, ["What is the Point of Equality?"](Re
 
 ## Foundational Texts
 
-## A Theory of Justice  
+### A Theory of Justice  
 [A Theory for Justice](https://books.google.nl/books/about/A_Theory_of_Justice.html?id=kvpby7HtAe0C&redir_esc=y](https://books.google.nl/books/about/A_Theory_of_Justice.html?id=kvpby7HtAe0C&redir_esc=y)&hl=en) 
 
 By John Rawls
@@ -55,7 +55,7 @@ This book is arguably the most important text in modern political philosophy and
 
 **Why it's essential:** Rawls's work set the terms of the debate for decades. Researchers either built upon his ideas or developed their own theories in direct response to his work.
 
-## The Social Contract
+### The Social Contract
 
 [The Social Contract](https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses?hl=en-GB)  
 By Jean-Jacques Rousseau (28 June 1712 – 2 July 1778), a Genevan philosopher, writer, and composer. His political philosophy influenced the progress of the Age of Enlightenment and the French Revolution.  
