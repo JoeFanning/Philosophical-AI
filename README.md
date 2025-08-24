@@ -109,12 +109,12 @@ Many people in historically marginalized communities are "credit invisible," mea
 In machine learning an Egalitarian AI would operate at a higher level of abstraction than ethical machine models.
 All the ethical machine models would be processed individually. Then all these processed models would be collectively analysed and processed by the Egalitarian AI. 
 
-It would self adapt it's structure and functionality based on dynamic information from its own data and from external data.
+It would self adapt it's structure and functionality using [Baysien Data Analysis](https://www.google.com/search?q=Bayesian+Data+Analysis%22+by+Andrew+Gelman+et+al&client=ms-android-huawei-rev1&sca_esv=d31db3e4b2a35ed5&sxsrf=AE3TifMgxa-CiTP_u47B1lRFpvYgyn1oDw%3A1756026930498&ei=MtiqaKWJHsep9u8P28T1kQE&oq=Bayesian+Data+Analysis%22+by+Andrew+Gelman+et+al&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIi5CYXllc2lhbiBEYXRhIEFuYWx5c2lzIiBieSBBbmRyZXcgR2VsbWFuIGV0IGFsMgUQLhiABDIGEAAYFhgeMggQABiABBiiBDIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wVIjyRQ6RVY6RVwAngBkAEAmAHrAaAB6wGqAQMyLTG4AQPIAQD4AQH4AQKYAgOgAsgCqAIPwgIHEC4YJxjqAsICBxAjGCcY6gKYAyvxBQvovn0eAAAMkgcFMi4wLjGgB4wIsgcDMi0xuAeJAsIHBTMtMS4yyAdU&sclient=mobile-gws-wiz-serp#ebo=0), [Baysien Updating]() comes on static and dynamic information from its own data and from external data.
 It could use Self Adaptation Algorithms like what is implemented in
 Adaptive Machine Learning:
 [Improving Efficiency through Dynamic Model Adjustment. ](Resources/Adaptive_Machine_Learning_Algorithms1.pdf) Adaptive Machine Learning models adjust their parameters and structure as they are exposed to new data and [Data Drift](Resources/Understanding_Data_Drift_and_Concept_Drift_in_Mach.pdf), [Concept Drift](https://ieeexplore.ieee.org/document/8496795) allowing them to handle changing information and environments.
 Egalitarian AI would also improve efficiency through Adaptive Machine Learning of its framework and system. 
-Structure and operation(underlying structure and its functionality ) could be adapted and improved with adaptive algorithms in real time with internal data and with external ever changing real world data, giving the system the possibility of exponential improvement. 
+Structure and operation(underlying structure and its functionality ) could be adapted and improved with adaptive algorithms using Baysien Updating in real time with internal data and with external ever changing real world data, giving the system the possibility of exponential improvement. 
 
 For example the system could be trained to write it's own functions to it's framework to enhance it's capabilities. 
 
