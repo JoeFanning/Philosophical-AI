@@ -118,9 +118,7 @@ Adaptive Machine Learning:
 Egalitarian AI would also improve efficiency through Adaptive Machine Learning of its framework and system. 
 Structure and operation(underlying structure and its functionality ) could be adapted and improved with adaptive algorithms using Baysien Updating in real time with internal data and with external ever changing real world data, giving the system the possibility of exponential improvement. 
 
-For example the system could be trained to write it's own functions to it's framework to enhance it's capabilities. 
-
-It could write it's own algorithms to learn create and implement new functionality and create new environments to process new and dynamic information. 
+The most important objective of a Philosophical AI is that it self adapts to generate an eventual exponential improvement. 
 
 #### Stage 1: The Ethical AI Layer (Individual Model Processing)
 
