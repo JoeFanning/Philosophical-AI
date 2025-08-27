@@ -80,27 +80,21 @@ let's say the loan approval model is less likely to approve loans for people in 
 
 ### Systemic ethnic discrimination
 
-**"past performance is not indicative of future results" 
+**"Past performance is not indicative of future results" 
 and 
 historical data is not a guarantee of future outcomes.**
 
 If data truthfully reflects that Black people or Native Indians or other ethnic groups on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that caused this disparity. 
 
-An AI model trained on this data will learn this pattern and, as a result, will likely continue to deny loans or charge higher interest rates to these ethnic groups applicants, even if they are individually creditworthy.
+An AI model trained on this data will learn this pattern and, as a result,will likely continue to deny loans or charge higher interest rates to these ethnic groups applicants, even if they are individually creditworthy.
 ​The issue is that the credit scoring system, and the data it produces, are deeply intertwined with historical and systemic inequalities.
+
+We do not want create functionality in AI systems that create these higher order intertwined systemic inequalities. That is why the AI should continuously and dynamically operate to construct a higher position of perspective correlating with Philosophy. 
 
 ​**The Roots of the Disparity**
 
-**​Redlining:**
-
-For decades, in the United States of America the Federal Housing Administration and other institutions used a practice called "redlining" to refuse to guarantee home loans in Black communities. This deprived Black families of a key way to build wealth and good credit.
-
-​**Income and Wealth Gaps:**
-
+For decades, in the United States of America the Federal Housing Administration and other institutions used a practice called **"redlining"*f to refuse to guarantee home loans in Black communities. This deprived Black families of a key way to build wealth and good credit.
 Due to historical and ongoing discrimination in employment and housing, Black households have significantly lower median income and wealth than white households. This makes it harder to pay bills on time, save money, and maintain a low credit utilization ratio, all of which are key factors in credit scores.
-
-**​Credit "Invisibility":** 
-
 Many people in historically marginalized communities are "credit invisible," meaning they don't have enough credit history to generate a score. They may pay their bills on time (rent, utilities, etc.), but that information isn't typically included in traditional credit reports.
 
 **​The Unfairness in AI**
