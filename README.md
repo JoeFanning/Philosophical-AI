@@ -4,7 +4,7 @@
 
 Which is more intellegent, good or evil?
 
-![Escher pic] (images/heaven_and_hell.jpg)
+![Escher pic] (images/heaven_and_hell.jpeg)
 
 The development of a benevolent AI is an essential endeavour for humanity. This immense task is coupled by two important questions. 
 
