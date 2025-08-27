@@ -103,6 +103,8 @@ The goal of creating "fair" AI isn't to pretend that these disparities don't exi
 
 We do not want to create functionality in AI systems that creates these higher order intertwined systemic inequalities and historic injustices. That is why the AI should continuously and dynamically operate to construct a higher position of perspective correlating with the methods of Philosophy. 
 
+We must endeavour to create programmable methods on the foundation of philosophical methods. 
+
 ## Technical Development and Deployment 
 
 ### Defining a System implementation for Egalitarian AI 
