@@ -101,7 +101,7 @@ Many people in historically marginalized communities are "credit invisible," mea
 ​
 The goal of creating "fair" AI isn't to pretend that these disparities don't exist. It's to build a system that can look beyond the raw, biased data and make decisions based on an individual's true creditworthiness, rather than on the systemic disadvantages they face.
 
-We do not want to create functionality in AI systems that creates these higher order intertwined systemic inequalities and historic injustices. That is why a Philosophical AI would continuously and dynamically use a methodology to self construct a more comprehensive understanding of its own operations correlating with the methods explored not only in epistemology but more importantly with moral Philosophy.
+We do not want to create functionality in AI systems that creates these higher order intertwined systemic inequalities and historic injustices. That is why a Philosophical AI like Egalitarian AI would continuously and dynamically use a methodology to self construct a more comprehensive understanding of its own operations correlating with the methods explored not only in epistemology but more importantly with moral philosophy.
 
 ## Technical Development and Deployment 
 
