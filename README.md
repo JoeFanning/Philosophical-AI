@@ -89,18 +89,25 @@ If data truthfully reflects that Black people or Native Indians or other ethnic 
 An AI model trained on this data will learn this pattern and, as a result, will likely continue to deny loans or charge higher interest rates to these ethnic groups applicants, even if they are individually creditworthy.
 ​The issue is that the credit scoring system, and the data it produces, are deeply intertwined with historical and systemic inequalities.
 
-​**The Roots of the Disparity**<br>
-​Redlining: For decades, the Federal Housing Administration and other institutions used a practice called "redlining" to refuse to guarantee home loans in Black communities. This deprived Black families of a key way to build wealth and good credit.
-​Income and Wealth Gaps: Due to historical and ongoing discrimination in employment and housing, Black households have significantly lower median income and wealth than white households. This makes it harder to pay bills on time, save money, and maintain a low credit utilization ratio, all of which are key factors in credit scores.
+​**The Roots of the Disparity**
 
-​Credit "Invisibility":
+**​Redlining:**
+
+For decades, in the United States of America the Federal Housing Administration and other institutions used a practice called "redlining" to refuse to guarantee home loans in Black communities. This deprived Black families of a key way to build wealth and good credit.
+
+​**Income and Wealth Gaps:**
+
+Due to historical and ongoing discrimination in employment and housing, Black households have significantly lower median income and wealth than white households. This makes it harder to pay bills on time, save money, and maintain a low credit utilization ratio, all of which are key factors in credit scores.
+
+**​Credit "Invisibility":** 
 
 Many people in historically marginalized communities are "credit invisible," meaning they don't have enough credit history to generate a score. They may pay their bills on time (rent, utilities, etc.), but that information isn't typically included in traditional credit reports.
 
-​The Unfairness
+**​The Unfairness in AI**
 
 ​The unfairness isn't that the AI is "lying" about the data. The unfairness is that the data itself is a reflection of a system that has historically disadvantaged a group of people. If an AI model simply learns to replicate that system, it automates and perpetuates a historical injustice.
-​The goal of creating "fair" AI isn't to pretend that these disparities don't exist. It's to build a system that can look beyond the raw, biased data and make decisions based on an individual's true creditworthiness, rather than on the systemic disadvantages they face.
+​
+The goal of creating "fair" AI isn't to pretend that these disparities don't exist. It's to build a system that can look beyond the raw, biased data and make decisions based on an individual's true creditworthiness, rather than on the systemic disadvantages they face.
 
 ## Technical Development and Deployment 
 
