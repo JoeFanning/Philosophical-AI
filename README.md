@@ -1,6 +1,9 @@
 # Philosophical AI
 **By Joe Fanning August 2025 Den Haag, The Netherlands.**
-## Abstract<br>
+## Abstract
+
+Which is more intellegent, good or evil?
+
 The development of a benevolent AI is an essential endeavour for humanity. This immense task is coupled by two important questions. 
 
 1.How to decide and interpret what is benevolent for humanity: what is ethical, moral and just for all: how to make the world a better place?
