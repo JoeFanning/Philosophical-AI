@@ -9,7 +9,7 @@ The development of a benevolent AI is an essential endeavour for humanity. This 
 
 These are not only philosophical questions that have to be asked. They are questions that must be answer. The question is can we answer these questions for AI so it can answer these questions itself? 
 
-The construction of an intellegent self improving machine must be created firstly witb moral philosophy and secondly with epistemology. The other way around creates a machine that is not intelligent. 
+The construction of an intellegent self improving machine must be created firstly with moral philosophy and secondly with epistemology. The other way around creates a machine that is not intelligent. 
 
 ## ​Global and Intergovernmental Frameworks
 
