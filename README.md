@@ -63,8 +63,6 @@ This could be a philosophy that encompasses a Benevolent AI.
 Egalitarian AI derives it's name from egalitarianism. Egalitarian AI would be considered an encompassing higher order for [Ethical AI](https://www.google.com/search?q=what+is+ethical+ai&oq=what+is+ethical+Ai&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgATSAQk3NDUyajBqMjmoAgCwAgE&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) .
 It's not just a set of rules for a model to adhere too, but a framework designed on a philosophy, that guides the design and purpose of the system and its integration into society. It asks, "Does this system contribute to a more equal and just society? Is it helping to dismantle systemic inequalities?".
 
-The most important objective of a Philosophical AI is that it self adapts to generate an eventual exponential improvement. 
-
 ### Compounded forms of discrimination  
 
 [Intersectionality](https://researchguides.library.syr.edu/fys101/intersectionality) 
