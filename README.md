@@ -87,9 +87,7 @@ historical data is not a guarantee of future outcomes.**
 If data truthfully reflects that Black people or Native Indians or other ethnic groups on average, have lower credit scores than white people, it's not the data itself that's the problem—it's the underlying socioeconomic conditions that caused this disparity. 
 
 An AI model trained on this data will learn this pattern and, as a result,will likely continue to deny loans or charge higher interest rates to these ethnic groups applicants, even if they are individually creditworthy.
-​The issue is that the credit scoring system, and the data it produces, are deeply intertwined with historical and systemic inequalities.
-
-We do not want create functionality in AI systems that create these higher order intertwined systemic inequalities. That is why the AI should continuously and dynamically operate to construct a higher position of perspective correlating with Philosophy. 
+​The issue is that the credit scoring system, and the data it produces, are deeply intertwined with historical and systemic inequalities.. 
 
 ​**The Roots of the Disparity**
 
@@ -102,6 +100,8 @@ Many people in historically marginalized communities are "credit invisible," mea
 ​The unfairness isn't that the AI is "lying" about the data. The unfairness is that the data itself is a reflection of a system that has historically disadvantaged a group of people. If an AI model simply learns to replicate that system, it automates and perpetuates a historical injustice.
 ​
 The goal of creating "fair" AI isn't to pretend that these disparities don't exist. It's to build a system that can look beyond the raw, biased data and make decisions based on an individual's true creditworthiness, rather than on the systemic disadvantages they face.
+
+We do not want to create functionality in AI systems that creates these higher order intertwined systemic inequalities and historic injustices. That is why the AI should continuously and dynamically operate to construct a higher position of perspective correlating with methods of Philosophy. 
 
 ## Technical Development and Deployment 
 
