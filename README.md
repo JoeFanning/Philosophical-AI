@@ -2,6 +2,8 @@
 **By Joe Fanning August 2025 Den Haag, The Netherlands.**
 ## Abstract
 
+This is a research paper in progress. It is an exploration of moral philosophy and machine intelligence. 
+
 Which is more intellegent, good or evil?
 
 The development of a benevolent AI is an essential endeavour for humanity. This immense task is coupled by two important questions. 
@@ -16,7 +18,7 @@ The construction of an intellegent self improving machine must be created firstl
 
 Uncontrolled knowledge will always corrupt intellegence but knowledge that comes from benevolence is intelligence. 
 
-This is the core philosophical thought for this paper. It hopes to shine a light on the way that artificial intelligence should be created. 
+This is the core philosophical thought for this paper. It hopes to shine a light on path to a benevolent artificial intelligence should be created. 
 
 ## ​Global and Intergovernmental Frameworks
 
