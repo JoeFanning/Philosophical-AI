@@ -18,7 +18,7 @@ The construction of an intellegent self improving machine must be created firstl
 
 Uncontrolled knowledge will always corrupt intellegence but knowledge that comes from benevolence is intelligence. 
 
-This is the core philosophical thought for this paper. It hopes to shine a light on path to a benevolent artificial intelligence. 
+This is the core philosophical thought for this paper. It hopes to shine a light on the path to a benevolent artificial intelligence. 
 
 ## ​Global and Intergovernmental Frameworks
 
