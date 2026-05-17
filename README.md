@@ -2,23 +2,15 @@
 **By Joe Fanning August 2025 Den Haag, The Netherlands.**
 ## Abstract
 
-This is a research paper in progress. It is an exploration of moral philosophy and machine intelligence. 
-
-Which is more intellegent, good or evil?
-
-The development of a benevolent AI is an essential endeavour for humanity. This immense task is coupled by two important questions. 
-
-1.How to decide and interpret what is benevolent for humanity: what is ethical, moral and just for all: how to make the world a better place?
-
-2.How to define these decisions into metrics for machine computation in AI?
-
-These are not only philosophical questions that have to be asked. They are questions that must be answer. The question is can we answer these questions for AI so it can answer these questions itself? 
-
-The construction of an intellegent self improving machine must be created firstly with moral philosophy and secondly with epistemology. The other way around creates a machine that is not intelligent. 
-
-Uncontrolled knowledge will always corrupt intellegence but knowledge that comes from benevolence is intelligence. 
-
-This is the core philosophical thought for this paper. It hopes to shine a light on the path to a benevolent artificial intelligence. 
+This is a research paper in progress. It is an exploration of moral philosophy and machine intelligence.
+Which is more intelligent, good or evil?
+The development of a benevolent AI is an essential endeavor for humanity. This immense task is coupled with two important questions:
+How to decide and interpret what is benevolent for humanity: what is ethical, moral, and just for all, and how to make the world a better place?
+How to define these decisions into metrics for machine computation in AI?
+These are not only philosophical questions that have to be asked. They are questions that must be answered. The question is, can we answer these questions for AI so it can answer these questions itself?
+The construction of an intelligent, self-improving machine must be created firstly with moral philosophy and secondly with epistemology. The other way around creates a machine that is not intelligent.
+Uncontrolled knowledge will always corrupt intelligence, but knowledge that comes from benevolence is intelligence.
+This is the core philosophical thought for this paper. It hopes to shine a light on the path to a benevolent artificial intelligence.
 
 ## ​Global and Intergovernmental Frameworks
 
