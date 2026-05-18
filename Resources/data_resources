@@ -1,3 +1,23 @@
-HMDA (Home Mortgage Disclosure Act) Data - https://ffiec.cfpb.gov/data-publication/2024
+Data Sets
+
+The biggest publicly accessible data databases and repositories in the world span petabytes (and even exabytes) of information, primarily hosted by government agencies, scientific research groups, and cloud-provider tech giants. 
+The largest open repositories can be categorized by their specific scientific or structural focus:
+🌍 Climate, Earth Science, and Space
+NOAA National Centers for Environmental Information (NCEI): Holding over 40 petabytes of data, this is the world's largest archive of weather, oceanic, and atmospheric history.
+NASA Earthdata: Coordinates tens of thousands of earth-science datasets, tracking satellite imagery, biosphere metrics, and planetary topography.
+World Data Centre for Climate (WDCC): Managed by the German Climate Computing Centre, this hosts petabytes of raw climate simulation data accessible for open research. 
+
+🧬 Genomics and Biological Sciences
+NCBI / Sequence Read Archive (SRA): Operated by the U.S. National Institutes of Health, the SRA holds petabytes of raw high-throughput DNA/RNA sequencing data from thousands of organisms worldwide.
+CERN Open Data Portal: Shares more than a petabyte of complex particle physics data generated from the Large Hadron Collider experiments. 
+💻 Web Crawls and Machine Learning
+Common Crawl: A non-profit that compiles massive multi-petabyte datasets containing billions of web pages collected over years of scanning the internet. It is the foundation for many large AI models.
+Google Dataset Search & Data Commons: Google acts as a massive indexing layer mapping out thousands of public repositories. Its Data Commons project unifies statistics from the UN, CDC, and world governments into a single queryable format. 
+📊 Global Infrastructure Cloud Registries
+AWS Registry of Open Data: Amazon hosts massive public datasets for free. This allows researchers to query genomic data, satellite grids, and transport maps using cloud tools without downloading them.
+Google BigQuery Public Datasets: A giant analytical warehouse offering immediate SQL access to crypto transaction histories, public health records, and global weather histories. 
+🏛️ Demographics and Government Data
+Data.gov & Eurostat: Data.gov serves as the central clearinghouse for over 250,000 free datasets from the U.S. government. Eurostat handles comparable volumes for European Union socio-economic data.
+World Bank Open Data: The definitive hub for macro-economic, financial, and population development indicators covering almost every country. HMDA (Home Mortgage Disclosure Act) Data - https://ffiec.cfpb.gov/data-publication/2024
 The UCI German Credit Dataset - https://archive.ics.uci.edu/datasets?search=&Keywords=finance
 The Home Credit Default Risk Dataset (Kaggle) - https://www.kaggle.com/datasets
